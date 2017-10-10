@@ -174,8 +174,8 @@ stripchart(lu$year ~ as.character(lu$acronym),pch=3,ylab="Party Acronym",xlab=""
 axis(1, lu = seq(min(lu$year), max(lu$year), by = 1), las = 2)
 dev.off()
 
-postscript("Malta_nat.eps", width = 1000, height = 1000)
-stripchart(mt$year ~ as.character(mt$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Austria",)
+postscript("mt_nat.eps", width = 1000, height = 1000)
+stripchart(mt$year ~ as.character(mt$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Malta",)
 axis(1, mt = seq(min(mt$year), max(mt$year), by = 1), las = 2)
 dev.off()
 
