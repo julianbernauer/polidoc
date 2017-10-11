@@ -1,62 +1,39 @@
-country_abbr,country_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-EE,Estonia,83712,EK,Eesti Kodanik,Estonian Citizens,1992,"Valimisliidu ""Eesti Kodanik"" programmist"
-EE,Estonia,83810,EME,Eesti Maarahva Erakond,Estonian Country Peopleâ€™s Party,1999,Eesti maarahva erakonna valimisprogramm
-EE,Estonia,83810,EME,Eesti Maarahva Erakond,Estonian Country Peopleâ€™s Party,2011,Eestimaist leiba ja tÃ¶Ã¶d!
-EE,Estonia,83711,ERSP,Eesti Rahvusliku SÃµltumatuse Partei,Estonian National Independence Party,1992,Eesti Rahvusliku SÃµltumatuse Partei valimisprogramm 1992
-EE,Estonia,83952,EÃœRP,Eesti Uhendatud Rahvapartei,Estonian United Peopleâ€™s Party,1999,Eesti Ãœhendatud Rahvapartei Ã¼hise valimisnimekirja valimiseelse platformi pÃµhiseisukohad
-EE,Estonia,83110,Green,Erakond Eestimaa Rohelised,Greens,2011,Valimislubadused
-EE,Estonia,83710,Isam,Isamaaliit,Homeland - Pro Patria Union,1992,Isamaa Valimsiprogramm 1992
-EE,Estonia,83710,Isam,Isamaaliit,Homeland - Pro Patria Union,1999,Seitse head pÃµhjust, miks valida Isamaaliit
-EE,Estonia,83710,Isam,Isamaaliit,Homeland - Pro Patria Union,2003,Teeme, mida lubame!
-EE,Estonia,83712,EK,Eesti Kodanik,Estonian Citizens,1992,"Valimisliidu Eesti Kodanik programmist"
-EE,Estonia,83709,El_Coal,"Electoral Union composed of: Isamaa (Fatherland), ERSP Eesti Rahvusliku Soltumatuse Partei (Estonian National Independence Party) combined into: Isamaaliit (Pro Patria Union) in 1995",,1995,Isamaa ja ERSP liidu programm
-EE,Estonia,83991,El_Coal,"Electoral Union Rohelised composed of: Eesti Roheline Liikumine, Eesti Rohelised, keskkonnakaitse- ja noorteÃ¼hendus Euroopa Noorte Metsaaktsioon Eestis, Roheline RÃ¼gement, Ã¼hendus Roheline Maardu",,1992,"Valimisliidu Rohelised programm"
-EE,Estonia,83810,EME,Eesti Maarahva Erakond ,Estonian Country Peopleâ€™s Party,1999,Eesti maarahva erakonna valimisprogramm
-EE,Estonia,83810,EME,Eesti Maarahva Erakond ,Estonian Country Peopleâ€™s Party,2011,Eestimaist leiba ja tÃ¶Ã¶d!
-EE,Estonia,83715,Era,Eesti EttevÃµtjate Erakond,,1992,"TÃ¶Ã¶, arukus ja ettevÃµtlikkus viib sihile! EttevÃµtjate Erakonna Riigikogus tegutsemise pÃµhimÃµtted"
-EE,Estonia,83711,ERSP,Eesti Rahvusliku SÃµltumatuse Partei,Estonian National Independence Party,1992,Eesti Rahvusliku SÃµltumatuse Partei valimisprogramm 1992
-EE,Estonia,83952,EÃœRP,Eesti Uhendatud Rahvapartei ,Estonian United Peopleâ€™s Party,1999,Eesti Ãœhendatud Rahvapartei Ã¼hise valimisnimekirja valimiseelse platformi pÃµhiseisukohad
-EE,Estonia,83110,Green,Erakond Eestimaa Rohelised (Greens),,2007,Programm Erakond Eestimaa Rohelised
-EE,Estonia,83110,Green,Erakond Eestimaa Rohelised (Greens),,2011,Valimislubadused
-EE,Estonia,83710,Isam,Isamaaliit,Homeland - Pro Patria Union,2003,"Teeme, mida lubame!"
-EE,Estonia,83710,Isam,Isamaaliit ,Homeland - Pro Patria Union,1992,Isamaa Valimsiprogramm 1992
-EE,Estonia,83710,Isam,Isamaaliit ,Homeland - Pro Patria Union,1999,"Seitse head pÃµhjust, miks valida Isamaaliit"
-EE,Estonia,83411,Kesk,Eesti Keskerakond,Estonian Center Party,1995,Eesti Keskerakonna valimisplatvormi sÃµlmkÃ¼simused
-EE,Estonia,83411,Kesk,Eesti Keskerakond,Estonian Center Party,1999,Meie teame lahendusi: Eesti Keskerakonna valimisplatvorm Riigikogu IX koosseisu valimistel
-EE,Estonia,83411,Kesk,Eesti Keskerakond,Estonian Center Party,2003,Meiega vÃµidavad kÃµik: Eesti Keskerakonna valimisprogramm Riigikogu X koosseisu valimistel
-EE,Estonia,83411,Kesk,Eesti Keskerakond,Estonian Center Party,2007,Eesti Keskerakonna valimisplatvorm Riigikogu XI koosseisu valimistel
-EE,Estonia,83411,Kesk,Eesti Keskerakond,Estonian Center Party,2011,Eesti Inimkeskseks
-EE,Estonia,83220,KK,Kindel Kodu ,Secure Home,1992,"Valimisliit ""Kindel Kodu"" valimisplatvorm"
-EE,Estonia,83719,KMÃœ,Koonderakond ja Maarahva Ãœhendus (Coalition Party and Rural Union) composed of: EKK Eesti Koonderakond (Coalition Party),EM Eesti Maalit (Estonian Rural Union),Coalition Party and Rural Union,1995,Eesti Koonderakonna programm
-EE,Estonia,83951,MKE,Meie Kodu on Eestimaa,Our Home is Estonia,1995,"Valimisliidu ""Minu kodu on Eestimaa."" valimisprogramm"
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,1992,Uus valik: EMKE valimisliit ESDP MÃµÃµdukad Eesti Vabariigi Riigikogu valimised 20.septembril 1992
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,1995,Hea tÃ¶Ã¶ eest hea palk/ MÃµÃµdukad/ mÃµistlik valik
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,1999,Erakond MÃµÃµdukad programm pÃµhikiri
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,2003,TÃ¶Ã¶tav Eesti
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,2007,Sotsiaaldemokraatliku Erakonna programm 2007. aasta Riigikogu valimisel
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,2011,Sotsiaaldemokraatliku Erakonna programm 2011. aasta Riigikogu valimistel
-EE,Estonia,83610,P,Parempoolsed,"Right-Wingers",1995,Vabariiklaste ja Konservatiivide valimisprogramm
-EE,Estonia,83421,R,Rahvarinne,Popular Front,1992,Eesti Euroopasse, Euroopa Eestisse! Rahvarinde valimisliidu valimisprogramm 1992
-EE,Estonia,83220,KK,Kindel Kodu ,Secure Home,1992,"Valimisliit Kindel Kodu valimisplatvorm"
-EE,Estonia,83719,KMÃœ,"Koonderakond ja Maarahva Ãœhendus (Coalition Party and Rural Union) composed of: EKK Eesti Koonderakond (Coalition Party),EM Eesti Maalit (Estonian Rural Union)","Coalition Party and Rural Union",1995,Eesti Koonderakonna programm
-EE,Estonia,83951,MKE,Meie Kodu on Eestimaa,Our Home is Estonia,1995,"Valimisliidu Minu kodu on Eestimaa. valimisprogramm"
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,2003,TÃ¶Ã¶tav Eesti
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,2007,Sotsiaaldemokraatliku Erakonna programm 2007. aasta Riigikogu valimisel
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,2011,Sotsiaaldemokraatliku Erakonna programm 2011. aasta Riigikogu valimistel
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,1992,Uus valik: EMKE valimisliit ESDP MÃµÃµdukad Eesti Vabariigi Riigikogu valimised 20.septembril 1992
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,1995,Hea tÃ¶Ã¶ eest hea palk/ MÃµÃµdukad/ mÃµistlik valik
-EE,Estonia,83410,MÃµÃµd,Rahvaerakond Moodukad,Peopleâ€™s Party Moderates,1999,Erakond MÃµÃµdukad programm pÃµhikiri
-EE,Estonia,83610,P,Parempoolsed,Right-Wingers,1995,Vabariiklaste ja Konservatiivide valimisprogramm
-EE,Estonia,83421,R,Rahvarinne,Popular Front,1992,"Eesti Euroopasse, Euroopa Eestisse! Rahvarinde valimisliidu valimisprogramm 1992"
-EE,Estonia,83430,Ref,Eesti Reformierakond,Estonian Reform Party,1995,Eesti Reformierakond: Valimisplatvorm/ Laiendatud valimisplatvorm/ Valimisnimekiri
-EE,Estonia,83430,Ref,Eesti Reformierakond,Estonian Reform Party,1999,Reformierakonna valimisplatvorm '99
-EE,Estonia,83430,Ref,Eesti Reformierakond,Estonian Reform Party,2003,Eesti Reformierakonna platvorm Riigikogu valimisteks 2003. aastal
-EE,Estonia,83430,Ref,Eesti Reformierakond,Estonian Reform Party,2007,Eesti Reformierakonna valimisplatvorm 2007. aasta Riigikogu valimisteks â€“parem Eesti kÃµigile!
-EE,Estonia,83430,Ref,Eesti Reformierakond,Estonian Reform Party,2011,Reformierakonna valimisprogramm
-EE,Estonia,83714,,Erakond Isamaa ja Res Publica Liit,Union of Pro Patria and Res Publica,2011,IRL-i 100 SAMMU EESTILE VALITSEMISPROGRAMM 2011-2015 
-EE,Estonia,83612,RL,Eestimaa Rahvaliit,Estonians Peopleâ€™s Union,2003,Eestimaa Rahvaliidu platvorm 2003. aasta Riigikogu valimisteks
-EE,Estonia,83901,SK,SÃµltumatud Kuningriiklased,Independent Royalists,1992,"Valimisliit ""SÃµltumatud Kuningriiklased"": Ãµiglus, stabiilsus, turvatunne!"
-EE,Estonia,83714,Res,Erakond Isamaa ja Res Publica Liit ,Union of Pro Patria and Res Publica,2007,Terve pere â€“ Terve mÃµistus â€“ Terve Eesti: Isamaa ja Res Publica Liidu valitsemisprogramm 2007â€“2011
-EE,Estonia,83714,Res,Erakond Isamaa ja Res Publica Liit ,Union of Pro Patria and Res Publica,2011,Valitsemisprogramm 2011
-EE,Estonia,83612,RL,Eestimaa Rahvaliit,Estonians Peopleâ€™s Union,2003,Eestimaa Rahvaliidu platvorm 2003. aasta Riigikogu valimisteks
-EE,Estonia,83901,SK,SÃµltumatud Kuningriiklased,Independent Royalists,1992,"Valimisliit SÃµltumatud Kuningriiklased: Ãµiglus, stabiilsus, turvatunne!"
+country_abbr;country_name;cmpcode;acronym;party_orig;party_engl;year;mani_title;
+EE;Estonia;83110;Green;Erakond Eestimaa Rohelised (Greens);;2007;Programm Erakond Eestimaa Rohelised;
+EE;Estonia;83110;Green;Erakond Eestimaa Rohelised;Greens;2011;Valimislubadused;
+EE;Estonia;83220;KK;Kindel Kodu ;Secure Home;1992;Valimisliit Kindel Kodu valimisplatvorm;
+EE;Estonia;83410;Mõõd;Rahvaerakond Moodukad;People’s Party Moderates;1992;Uus valik: EMKE valimisliit ESDP Mõõdukad Eesti Vabariigi Riigikogu valimised 20.septembril 1992;
+EE;Estonia;83410;Mõõd;Rahvaerakond Moodukad;People’s Party Moderates;1995;Hea töö eest hea palk/ Mõõdukad/ mõistlik valik;
+EE;Estonia;83410;Mõõd;Rahvaerakond Moodukad;People’s Party Moderates;1999;Erakond Mõõdukad programm põhikiri;
+EE;Estonia;83410;Mõõd;Rahvaerakond Moodukad;People’s Party Moderates;2003;Töötav Eesti;
+EE;Estonia;83410;Mõõd;Rahvaerakond Moodukad;People’s Party Moderates;2007;Sotsiaaldemokraatliku Erakonna programm 2007. aasta Riigikogu valimisel;
+EE;Estonia;83410;Mõõd;Rahvaerakond Moodukad;People’s Party Moderates;2011;Sotsiaaldemokraatliku Erakonna programm 2011. aasta Riigikogu valimistel;
+EE;Estonia;83411;Kesk;Eesti Keskerakond;Estonian Center Party;1995;Eesti Keskerakonna valimisplatvormi sõlmküsimused;
+EE;Estonia;83411;Kesk;Eesti Keskerakond;Estonian Center Party;1999;Meie teame lahendusi: Eesti Keskerakonna valimisplatvorm Riigikogu IX koosseisu valimistel;
+EE;Estonia;83411;Kesk;Eesti Keskerakond;Estonian Center Party;2003;Meiega võidavad kõik: Eesti Keskerakonna valimisprogramm Riigikogu X koosseisu valimistel;
+EE;Estonia;83411;Kesk;Eesti Keskerakond;Estonian Center Party;2007;Eesti Keskerakonna valimisplatvorm Riigikogu XI koosseisu valimistel;
+EE;Estonia;83411;Kesk;Eesti Keskerakond;Estonian Center Party;2011;Eesti Inimkeskseks;
+EE;Estonia;83421;R;Rahvarinne;Popular Front;1992;Eesti Euroopasse. Euroopa Eestisse! Rahvarinde valimisliidu valimisprogramm 1992; 
+EE;Estonia;83430;Ref;Eesti Reformierakond;Estonian Reform Party;1995;Eesti Reformierakond: Valimisplatvorm/ Laiendatud valimisplatvorm/ Valimisnimekiri;
+EE;Estonia;83430;Ref;Eesti Reformierakond;Estonian Reform Party;1999;Reformierakonna valimisplatvorm '99;
+EE;Estonia;83430;Ref;Eesti Reformierakond;Estonian Reform Party;2003;Eesti Reformierakonna platvorm Riigikogu valimisteks 2003. aastal;
+EE;Estonia;83430;Ref;Eesti Reformierakond;Estonian Reform Party;2007;Eesti Reformierakonna valimisplatvorm 2007. aasta Riigikogu valimisteks –parem Eesti kõigile!;
+EE;Estonia;83430;Ref;Eesti Reformierakond;Estonian Reform Party;2011;Reformierakonna valimisprogramm;
+EE;Estonia;83610;P;Parempoolsed;Right-Wingers;1995;Vabariiklaste ja Konservatiivide valimisprogramm;
+EE;Estonia;83612;RL;Eestimaa Rahvaliit;Estonians People’s Union;2003;Eestimaa Rahvaliidu platvorm 2003. aasta Riigikogu valimisteks;
+EE;Estonia;83709;El_Coal;Electoral Union composed of: Isamaa (Fatherland), ERSP Eesti Rahvusliku Soltumatuse Partei (Estonian National Independence Party) combined into: Isamaaliit (Pro Patria Union) in 1995;;1995;Isamaa ja ERSP liidu programm;
+EE;Estonia;83710;Isam;Isamaaliit ;Homeland - Pro Patria Union;1992;Isamaa Valimsiprogramm 1992;
+EE;Estonia;83710;Isam;Isamaaliit ;Homeland - Pro Patria Union;1999;Seitse head põhjust, miks valida Isamaaliit;
+EE;Estonia;83710;Isam;Isamaaliit;Homeland - Pro Patria Union;2003;Teeme, mida lubame!;
+EE;Estonia;83711;ERSP;Eesti Rahvusliku Sõltumatuse Partei;Estonian National Independence Party;1992;Eesti Rahvusliku Sõltumatuse Partei valimisprogramm 1992;
+EE;Estonia;83712;EK;Eesti Kodanik;Estonian Citizens;1992;Valimisliidu Eesti Kodanik programmist;
+EE;Estonia;83714;Res;Erakond Isamaa ja Res Publica Liit ;Union of Pro Patria and Res Publica;2007;Terve pere – Terve mõistus – Terve Eesti: Isamaa ja Res Publica Liidu valitsemisprogramm 2007–2011;
+EE;Estonia;83714;Res;Erakond Isamaa ja Res Publica Liit ;Union of Pro Patria and Res Publica;2011;Valitsemisprogramm 2011;
+EE;Estonia;83715;Era;Eesti Ettevõtjate Erakond;;1992;Töö, arukus ja ettevõtlikkus viib sihile! Ettevõtjate Erakonna Riigikogus tegutsemise põhimõtted;
+EE;Estonia;83719;KMÜ;Koonderakond ja Maarahva Ühendus (Coalition Party and Rural Union) composed of: EKK Eesti Koonderakond (Coalition Party), EM Eesti Maalit (Estonian Rural Union);Coalition Party and Rural Union;1995;Eesti Koonderakonna programm;
+EE;Estonia;83810;EME;Eesti Maarahva Erakond ;Estonian Country People’s Party;1999;Eesti maarahva erakonna valimisprogramm;
+EE;Estonia;83810;EME;Eesti Maarahva Erakond ;Estonian Country People’s Party;2011;Eestimaist leiba ja tööd!;
+EE;Estonia;83901;SK;Sõltumatud Kuningriiklased;Independent Royalists;1992;Valimisliit Sõltumatud Kuningriiklased: õiglus, stabiilsus, turvatunne!;
+EE;Estonia;83951;MKE;Meie Kodu on Eestimaa;Our Home is Estonia;1995;Valimisliidu Minu kodu on Eestimaa. valimisprogramm;
+EE;Estonia;83952;EÜRP;Eesti Uhendatud Rahvapartei;Estonian United People’s Party;1999;Eesti Ühendatud Rahvapartei ühise valimisnimekirja valimiseelse platformi põhiseisukohad;
+EE;Estonia;83991;El_Coal;Electoral Union Rohelised composed of: Eesti Roheline Liikumine, Eesti Rohelised, keskkonnakaitse- ja noorteühendus Euroopa Noorte Metsaaktsioon Eestis, Roheline Rügement, ühendus Roheline Maardu;;1992;Valimisliidu Rohelised programm;
