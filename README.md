@@ -22,5 +22,6 @@ Development platform for polidoc.net
 - This is the master file for the assignemt of cmp-style codes 
 - It is created from the source files using "polidoc_manifestos.r"
 
-%# Wishlist
-%- Scrape polidoc.net to update files or create polidoc.net from files
+# Wishlist
+- Scrape polidoc.net to update files or create polidoc.net from files
+- ...
