@@ -1,7 +1,6 @@
 country_abbr,country_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
 CH,Switzerland,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Die neue Kraft
 CH,Switzerland,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People’s Party,1983,Programme des points forts du PDC pour la législature 1983-1987
-CH,Switzerland,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People’s Party,1987,I. ‘Une politique au service de l’homme et de son environment’
 CH,Switzerland,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People’s Party,1987,II. Complements au Programme du PDC pour les années 1987-1991
 CH,Switzerland,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People’s Party,1991,‘Zukunft für alle’
 CH,Switzerland,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People’s Party,1995,‘Die Kraft im Zentrum. Unsere Leistungen - unsere Ziele 1991-2000’
@@ -26,6 +25,7 @@ CH,Switzerland,43420,FDP/PRD,Freisinnig-Demokratische Partei,Radical Democratic 
 CH,Switzerland,43420,FDP/PRD,Freisinnig-Demokratische Partei,Radical Democratic Party,2007,Eine Schweiz in Bewegung
 CH,Switzerland,43420,FDP/PRD,Freisinnig-Demokratische Partei,Radical Democratic Party,2011,Aus Liebe zur Schweiz - mit Mut und Verstand.
 CH,Switzerland,43951,FPS,Freiheitspartei der Schweiz,Freedom Party of Switzerland,1991,‘Zum Parteiprogramm der APS für die Legislaturperiode 1991-1995’
+CH,Switzerland,43951,FPS,Freiheitspartei der Schweiz,Freedom Party of Switzerland,1999,FPS - WAHLPLATTFORM 1999
 CH,Switzerland,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,1987,Plattform des Grünen Bündnisses
 CH,Switzerland,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,1991,Programmplattform 1991
 CH,Switzerland,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,1995,‚Eine neue Politik ist möglich’
@@ -33,15 +33,14 @@ CH,Switzerland,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,19
 CH,Switzerland,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2003,‘Eine andere Welt ist möglich’
 CH,Switzerland,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2007,Wahlplattform 2007
 CH,Switzerland,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2011,Echt Grün. Echt stark.
-CH,Switzerland,43321,LdU/ADI,Landesring der Unabhängigen,Independent’s Alliance,1995,‘Eine Schweiz für das 21. Jahrhundert’
-CH,Switzerland,43953,Lega,Lega die Ticinesi,Ticino League ,2007,Il programma della Lega in sintesi
-CH,Switzerland,43531,LPS/CLS,Liberale Partei der Schweiz,Liberal Party of Switzerland,1999,
+CH,Switzerland,43321,LdU/ADI,Landesring der Unabhängigen,Independent’s Alliance,1995,NO title
+CH,Switzerland,43953,Lega,Lega die Ticinesi,Ticino League,2007,Il programma della Lega in sintesi
+CH,Switzerland,43531,LPS/CLS,Liberale Partei der Schweiz,Liberal Party of Switzerland,1999,No title
 CH,Switzerland,43531,LPS/CLS,Liberale Partei der Schweiz,Liberal Party of Switzerland,2003,"Für eine Schweiz, die vorwärts kommt…"
 CH,Switzerland,43531,LPS/CLS,Liberale Partei der Schweiz,Liberal Party of Switzerland,2007,Programm der Liberalen Partei der Schweiz
 CH,Switzerland,43220,PDA,Partei der Arbeit der Schweiz,Swiss Labour Party,2003,‘Gemeinsam für Veränderung’
 CH,Switzerland,43710,SD,Schweizer Demokraten,Swiss Democrats,1991,Politisches Programm für die Legislaturperiode 1991-1995
 CH,Switzerland,43710,SD ,Schweizer Demokraten,Swiss Democrats,2003,Politisches Programm für die Legislaturperiode 2003 - 2007 
-CH,Switzerland,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,1981,Damit Politik wieder machbar wird
 CH,Switzerland,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,1983,‚Nahziele 1983-87. Das soziale Gewissen der Schweiz - Sozialdemokraten!’
 CH,Switzerland,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,1991,"Sozial, umweltbewusst, solidarisch. Eine Information über Original Ziele, Politik und Arbeitsweise der SP (2. Auflage 1994)"
 CH,Switzerland,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,1995,‘Die Schweiz muss wieder sozialer werden’
