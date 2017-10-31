@@ -1,12 +1,15 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-CH,Switzerland,7,Fribourg,43811,BDP,B�rgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Programm B�rgerlich-Demokratische Partei Schweiz - Kanton Freiburg
-CH,Switzerland,7,Fribourg,43540,CSP/PCS,Christlich-soziale Partei,Christian-social party,2011,Programme l�gislatif 2011-16
-CH,Switzerland,7,Fribourg,43520,CVP/PDC,,,,
-CH,Switzerland,7,Fribourg,43520,CVP/PDC,,,,
-CH,Switzerland,7,Fribourg,43420,FDP/PRD,,,,
-CH,Switzerland,7,Fribourg,43420,FDP/PRD,,,,
-CH,Switzerland,7,Fribourg,43120,GLP,Gr�nliberale Partei der Schweiz,Green Liberal Party of Switzerland,2011,Nat�rlich - Liste 6 - Naturellement
-CH,Switzerland,7,Fribourg,43110,GPS,,,,
-CH,Switzerland,7,Fribourg,43320,SPS/PSS,,,,
-CH,Switzerland,7,Fribourg,43810,SVP/UDC,,,,
-CH,Switzerland,7,Fribourg,43810,SVP/UDC,,,,
+
+CH,Switzerland,7,Fribourg,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2006,Vision Freiburg Politisches Programm 2006-2011
+
+CH,Switzerland,7,Fribourg,43420,FDP/PRD,Freisinnig-Demokratische Partei,Free Democratic Party,2007,profil bleu
+CH,Switzerland,7,Fribourg,43810,SVP,Schweizerische Volkspartei,Swiss People's Party,2007,Politisches Schwerpunkteprogramm für die Legislatur 2007-2011
+
+CH,Switzerland,7,Fribourg,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Programm Bürgerlich-Demokratische Partei Schweiz - Kanton Freiburg
+CH,Switzerland,7,Fribourg,43540,CSP/PCS,Christlich-soziale Partei,Christian-social party,2011,Programme législatif 2011-16
+CH,Switzerland,7,Fribourg,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2011,Projet Cantonal 2011 - 2016
+CH,Switzerland,7,Fribourg,43120,GLP,Grünliberale Partei der Schweiz,Green Liberal Party of Switzerland,2011,Natürlich - Liste 6 - Naturellement
+CH,Switzerland,7,Fribourg,43320,SP,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2011,Für alle statt für wenige
+CH,Switzerland,7,Fribourg,43810,SVP,Schweizerische Volkspartei,Swiss People's Party,2011,Politisches Programm SVP Freiburg - Legislatur 2012-2016
+CH,Switzerland,7,Fribourg,43420,FDP/PRD,Freisinnig-Demokratische Partei,Free Democratic Party,2011,Programme électoral 2011 - 2016
+CH,Switzerland,7,Fribourg,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2011,Wahlvertrag 2011 - Wähle CVP- Unsere Werte für Ihre Zukunft!
