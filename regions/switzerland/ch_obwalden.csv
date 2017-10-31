@@ -1,3 +1,13 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
 CH,Switzerland,15,Obwalden,,,,,,
-CH,Switzerland,15,Obwalden,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People�s Party,2006,Parteiprogramm SVP Obwalden
+CH,Switzerland,15,Obwalden,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,1998,Schwerpunkte und Ziele 1998-2002
+
+CH,Switzerland,15,Obwalden,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2002,CVP Programm 2002-2006
+
+CH,Switzerland,15,Obwalden,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2006,Programm der CVP-Obwalden 2006-2010
+CH,Switzerland,15,Obwalden,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People’s Party,2006,Parteiprogramm SVP Obwalden
+
+CH,Switzerland,15,Obwalden,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2010,Unsere Politik für die Legislatur 2010-2014
+CH,Switzerland,15,Obwalden,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People’s Party,2006,Parteiprogramm SVP Obwalden,2010,Obwaldner Wahlzeitung
+CH,Switzerland,15,Obwalden,43420,FDP,Freisinnig-Demokratische Partei,Free Democratic Party,2010,Legislaturziele 2010 – 2014 Dafür steht die FDP in Kantons- wie Regierungsrat ein!
+CH,Switzerland,15,Obwalden,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People’s Party,2006,Parteiprogramm SVP Obwalden,2010,Legislatur 2010 - 2014
