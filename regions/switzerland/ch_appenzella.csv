@@ -1,8 +1,15 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-CH,Schweiz,2,Appenzell Ausserhoden,43530,EVP/PEP,,,2007,
-CH,Schweiz,2,Appenzell Ausserhoden,43530,EVP/PEP,,,2011,
-CH,Schweiz,2,Appenzell Ausserhoden,43420,FDP/PRD,,,2002,
-CH,Schweiz,2,Appenzell Ausserhoden,43420,FDP/PRD,,,2011,
-CH,Schweiz,2,Appenzell Ausserhoden,43110,GPS,,,2007,
-CH,Schweiz,2,Appenzell Ausserhoden,43810,SVP/UDC,,,2004,
-CH,Schweiz,2,Appenzell Ausserhoden,43810,SVP/UDC,,,2008,
+
+CH,Schweiz,2,Appenzell Ausserhoden,43420,FDP/PRD,Freisinnig-Demokratische Partei,Free Democratic Party,2002,Flyer
+CH,Schweiz,2,Appenzell Ausserhoden,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2004,Parteiprogramm 2004-2007
+
+CH,Schweiz,2,Appenzell Ausserhoden,43530,EVP/PEP,Evangelische Volkspartei der Schweiz,Evangelical People's Party of Switzerland,2007,Parteiprogramm 2007
+CH,Schweiz,2,Appenzell Ausserhoden,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2007,Parteiprogramm 2007
+
+CH,Schweiz,2,Appenzell Ausserhoden,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2008,Regierungsprogramm 2007-2011
+
+CH,Schweiz,2,Appenzell Ausserhoden,43530,EVP/PEP,Evangelische Volkspartei der Schweiz,Evangelical People's Party of Switzerland,2011,Programmatischer Flyer
+CH,Schweiz,2,Appenzell Ausserhoden,43420,FDP/PRD,Freisinnig-Demokratische Partei,Free Democratic Party,2011,FDP. Die Liberalen Appenzell Ausserrhoden Parteiprogramm
+
+
+
