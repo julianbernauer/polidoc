@@ -1,11 +1,13 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-CH,Switzerland,5,Basel-Land,43811,BDP,B�rgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Erste programmatische Schwerpunkte
-CH,Switzerland,5,Basel-Land,43520,CVP/PDC,,,,
-CH,Switzerland,5,Basel-Land,43530,EVP/PEP,,,,
-CH,Switzerland,5,Basel-Land,43420,FDP/PRD,,,,
-CH,Switzerland,5,Basel-Land,43120,GLP,Gr�nliberale Partei der Schweiz,Green Liberal Party of Switzerland,2011,Verantwortung wahrnehmen und respektvoll leben und politisieren
-CH,Switzerland,5,Basel-Land,43110,GPS,,,,
-CH,Switzerland,5,Basel-Land,43110,GPS,,,,
-CH,Switzerland,5,Basel-Land,43320,SPS/PSS,,,,
-CH,Switzerland,5,Basel-Land,43320,SPS/PSS,,,,
-CH,Switzerland,5,Basel-Land,43810,SVP/UDC,,,,
+
+CH,Switzerland,5,Basel-Land,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2007,Programm 2007-2011
+CH,Switzerland,5,Basel-Land,43320,SP,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2007,Legislaturprogramm 2007-2011
+
+CH,Switzerland,5,Basel-Land,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2011,Liste 7 Grün elektrisiert rentiert bewegt
+CH,Switzerland,5,Basel-Land,43420,FDP/PRD,Freisinnig-Demokratische Partei,Free Democratic Party,2011,Wählen Sie FDP!
+CH,Switzerland,5,Basel-Land,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Erste programmatische Schwerpunkte
+CH,Switzerland,5,Basel-Land,43120,GLP,Grünliberale Partei der Schweiz,Green Liberal Party of Switzerland,2011,Verantwortung wahrnehmen und respektvoll leben und politisieren
+CH,Switzerland,5,Basel-Land,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2011,Wahlprogramm
+CH,Switzerland,5,Basel-Land,43530,EVP,Evangelische Volkspartei der Schweiz,Evangelical People's Party of Switzerland,2011,Liste 4 Tragende Werte.
+CH,Switzerland,5,Basel-Land,43810,SVP,Schweizerische Volkspartei,Swiss People's Party,2011,Landrats- und Regierungsrats-Wahlen 2011 Für s Baselbiet Für d Schwiz
+CH,Switzerland,5,Basel-Land,43320,SP,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2011,Landrat Wahlplattform
