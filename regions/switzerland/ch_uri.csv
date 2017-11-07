@@ -1,4 +1,13 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-CH,Switzerland,22,Uri,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People�s Party,2012,Themen
-CH,Switzerland,22,Uri,43110,GPS,Gr�ne Partei der Schweiz,Green Party of Switzerland,2012,Ziele
+
 CH,Switzerland,22,Uri,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,1999,Ziele der Sozialdemokratischen Partei Uri
+
+CH,Switzerland,22,Uri,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2008,Wahlplattform
+CH,Switzerland,22,Uri,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,2008,Wahlplattform 2008
+CH,Switzerland,22,Uri,43420,FDP, Freisinnig-Demokratische Partei,Free Democratic Party,Uri in Fahrt-Positionspapier für die Wahlen 2008
+CH,Switzerland,22,Uri,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People’s Party,2008,Mut beginnt im Kopf
+CH,Switzerland,22,Uri,43810,SVP,Schweizerische Volkspartei,Swiss People's Party,2008,Parteiprogramm
+
+CH,Switzerland,22,Uri,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People’s Party,2012,Themen
+CH,Switzerland,22,Uri,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2012,Ziele
+CH,Switzerland,22,Uri,43810,SVP,Schweizerische Volkspartei,Swiss People's Party,2012,Parteiprogramm 2012-2016
