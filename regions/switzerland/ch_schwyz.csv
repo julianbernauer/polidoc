@@ -1,2 +1,8 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
+
+CH,Switzerland,19,Schwyz,43810,SVP,Schweizerische Volkspartei,Swiss People's Party,2008,Legislaturprogramm 2008-2011
+
 CH,Switzerland,19,Schwyz,43420,FDP/PRD,Freisinnig-Demokratische Partei,Radical Democratic Party,2009,Ziele der FDP Kanton Schwyz
+
+CH,Switzerland,19,Schwyz,43320,SP,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2012,Positionen
+CH,Switzerland,19,Schwyz,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2012, Christlich Demokratische Volkspartei Kanton Schwyz
