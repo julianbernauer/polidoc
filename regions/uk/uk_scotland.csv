@@ -1,32 +1,31 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-UK,United Kingdom,2,Scotland,0,COAL,Agreement!,,,
-UK,United Kingdom,2,Scotland,0,COAL,Agreement!,,,
+UK,United Kingdom,2,Scotland,51001,COAL,Coaltion Agreement!,Colation Agreement!,1999,PARTNERSHIP FOR SCOTLAND
+UK,United Kingdom,2,Scotland,51001,COAL,Coaltion Agreement!,Coalition Agreement,2003,A partnership for a better SCOTLAND
+UK,United Kingdom,2,Scotland,51620,Con,Conservative Party,Conservative Party,1999,Scotland First
+UK,United Kingdom,2,Scotland,51620,Con,Conservative Party,Conservative Party,2003,Time to do something about it
+UK,United Kingdom,2,Scotland,51620,Con,Conservative Party,Conservative Party,2007,Scottish Conservative Manifesto, Scottish Parliament Election 2007
+UK,United Kingdom,2,Scotland,51620,Con,Conservative Party,Conservative Party,2011,Common Sense for Scotland
 UK,United Kingdom,2,Scotland,51620,Con,Conservative Party,Conservative Party,2016,A Strong Opposition -  A Stronger Scotland
-UK,United Kingdom,2,Scotland,51620,Con,,,,
-UK,United Kingdom,2,Scotland,51620,Con,,,,
-UK,United Kingdom,2,Scotland,51620,Con,,,,
-UK,United Kingdom,2,Scotland,51620,Con,,,,
+UK,United Kingdom,2,Scotland,51102,G_SC,Scottish Greens,Scottish Greens,1999,Caring for Scotland
+UK,United Kingdom,2,Scotland,51102,G_SC,Scottish Greens,Scottish Greens,2003,Reach for the Future
+UK,United Kingdom,2,Scotland,51102,G_SC,Scottish Greens,Scottish Greens,2007,Act Now: Choose a Green Future
+UK,United Kingdom,2,Scotland,51102,G_SC,Scottish Greens,Scottish Greens,2011,Scottish Parliament Manifesto 2011
 UK,United Kingdom,2,Scotland,51102,G_SC,Scottish Greens,Scottish Greens,2016,A better Scotland needs a better Holyroad
-UK,United Kingdom,2,Scotland,51102,G_SC,,,,
-UK,United Kingdom,2,Scotland,51102,G_SC,,,,
-UK,United Kingdom,2,Scotland,51102,G_SC,,,,
-UK,United Kingdom,2,Scotland,51102,G_SC,,,,
+UK,United Kingdom,2,Scotland,51320,Lab,Labour Party,Labour Party,2003,On your side
+UK,United Kingdom,2,Scotland,51320,Lab,Labour Party,Labour Party,2007,Building Scotland
+UK,United Kingdom,2,Scotland,51320,Lab,Labour Party,Labour Party,2011,Fighting for what really matters. The Scottish Labour Party Manifesto 2011
 UK,United Kingdom,2,Scotland,51320,Lab,Labour Party,Labour Party,2016,Scotland's Future Both Votes Labour
-UK,United Kingdom,2,Scotland,51320,Lab,,,,
-UK,United Kingdom,2,Scotland,51320,Lab,,,,
-UK,United Kingdom,2,Scotland,51320,Lab,,,,
+UK,United Kingdom,2,Scotland,51421,LDP,Liberal Democratic Party,Liberal Democratic Party,1999,Raising the standard
+UK,United Kingdom,2,Scotland,51421,LDP,Liberal Democratic Party,Liberal Democratic Party,2003,Make the Difference. Fresh Thinking for Four More Years
+UK,United Kingdom,2,Scotland,51421,LDP,Liberal Democratic Party,Liberal Democratic Party,2007,We think Scotland has a bright future.
+UK,United Kingdom,2,Scotland,51421,LDP,Liberal Democratic Party,Liberal Democratic Party,2011,Scottish Liberal Democrats Manifesto 2011
 UK,United Kingdom,2,Scotland,51421,LDP,Liberal Democratic Party,Liberal Democratic Party,2016,Be the Best Again
-UK,United Kingdom,2,Scotland,51421,LDP,,,,
-UK,United Kingdom,2,Scotland,51421,LDP,,,,
-UK,United Kingdom,2,Scotland,51421,LDP,,,,
-UK,United Kingdom,2,Scotland,51421,LDP,,,,
 UK,United Kingdom,2,Scotland,51402,LPUK,Libertarian Party,Libertarian Party,2016,Scottish Election 2016 Electoral Manifesto
 UK,United Kingdom,2,Scotland,51953,RISE,"Respect, Independence, Socialism, and Environmentalism","Respect, Independence, Socialism, and Environmentalism",2016,Another Scotland is Possible
-UK,United Kingdom,2,Scotland,51953,RISE,,,,
+UK,United Kingdom,2,Scotland,51902,SNP,Scottish National Party,Scottish National Party,1999,Enterprise, Compassion, Democracy
+UK,United Kingdom,2,Scotland,51902,SNP,Scottish National Party,Scottish National Party,2003,The Complete Case for a Better Scotland. Manifesto for the Scottish Election.
+UK,United Kingdom,2,Scotland,51902,SNP,Scottish National Party,Scottish National Party,2007,Manifesto 2007
+UK,United Kingdom,2,Scotland,51902,SNP,Scottish National Party,Scottish National Party,2011,Scottish Parliament Manifesto 2011
 UK,United Kingdom,2,Scotland,51902,SNP,Scottish National Party,Scottish National Party,2016,Re-Elect
-UK,United Kingdom,2,Scotland,51902,SNP,,,,
-UK,United Kingdom,2,Scotland,51902,SNP,,,,
-UK,United Kingdom,2,Scotland,51902,SNP,,,,
-UK,United Kingdom,2,Scotland,51902,SNP,,,,
+UK,United Kingdom,2,Scotland,51951,UKIP,United Kingdom Independence Party,United Kingdom Independence Party,2007,Manifesto: Scottish Parliament and Local Elections. 3 May 2007
 UK,United Kingdom,2,Scotland,51951,UKIP,United Kingdom Independence Party,United Kingdom Independence Party,2016,Shake Up Holyrood
-UK,United Kingdom,2,Scotland,51951,UKIP,,,,
