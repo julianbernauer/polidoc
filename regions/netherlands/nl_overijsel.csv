@@ -1,6 +1,27 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
 
-NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,,1999,Democratie in Dialog - Verkiezingsprogramma D66 Overijssel 1999-2003
-NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,,2003,Democratie in Dialog - Verkiezingsprogramma D66 Overijssel 2003-2007
-NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,,2007,Verkiezingsprogramma 2007-2011 Provinciale Staten Overijssel - Zicht op Morgen
-NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,,2011,Anders Ja D66 - Verkiezingsprogramma D66 Overijssel voor de Provinciale Staten 2011-2015
+NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,1999,Democratie in Dialog - Verkiezingsprogramma D66 Overijssel 1999-2003
+
+NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,2003,Democratie in Dialog - Verkiezingsprogramma D66 Overijssel 2003-2007
+
+NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,2007,Verkiezingsprogramma 2007-2011 Provinciale Staten Overijssel - Zicht op Morgen
+NL,Netherlands,9,Overijsel,22110,GL,Groen Links,GreenLeft,2007,Voor u ligt het verkiezingsprogramma 2007 – 2011 van GroenLinks Overijssel
+NL,Netherlands,9,Overijsel,22220,SP,Socialistische Partij,Socialist Party,2007,Overijssel, menselijker en socialer NU SP. Verkiezingsprogramma SP Overijssel 2007-2011
+NL,Netherlands,9,Overijsel,22420,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democraty,2007,Om de Toekomst van Overijssel - VVD verkiezingsprogramma 2007-2011
+NL,Netherlands,9,Overijsel,22430,LN,Leefbaar Nederland,Liveable Netherlands,2007,Verkiezingsprogramma Leefbaar Overijssel/Vereinigde Senioren Partij 2007-2011
+NL,Netherlands,9,Overijsel,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,2007,Vanuit vaste waarden en normen - Verkiezingsprogramma 2007-2011 - Staatkundig Gereformeerde Partik Overijssel
+NL,Netherlands,9,Overijsel,22521,CDA,Christen Democratisch Appèl,Christian Democratic Appeal,2007,Verkiezingsprogramma CDA Overijssel - Vertrouwen in elkaar, vertrouwen in Overijssel
+NL,Netherlands,9,Overijsel,22526,CU,ChristenUnie,Christian Union,2007,Verkiezingsprogramma Christenunie 2007-2011 - Kiezen voor elkaar
+NL,Netherlands,9,Overijsel,22952,PvdD,Partij voor de Dieren,Party for the Animals,2007, Mededogen en alle Staten -Verkiezingsprogramma Partij voor de Dieren - Provinciale Staten Overijssel 2007
+
+NL,Netherlands,9,Overijsel,22330,D66,Democraten 66,2011,Anders Ja D66 - Verkiezingsprogramma D66 Overijssel voor de Provinciale Staten 2011-2015
+NL,Netherlands,9,Overijsel,22110,GL,Groen Links,GreenLeft,2011, Verkiezingsprogramma van Groen Links Overijssel voor 2 Maart
+NL,Netherlands,9,Overijsel,22220,SP,Socialistische Partij,Socialist Party,2011, Een beter Overijssel voor minder Geld -  Verkiezeningsprogramma SP 2011-2015
+NL,Netherlands,9,Overijsel,22320,PvdA,Partij van de Arbeid,Labour Party,2011,PvdA Overijssel: Ruimte om samen te léven
+NL,Netherlands,9,Overijsel,22601,PVV,Partij voor Vrijheid,Party for Freedom,2011, Verkiezingsprogramma PVV Overijssel 2011-2015
+NL,Netherlands,9,Overijsel,22906,50+,50PLUS,50PLUS,2011,LIJST 9 - De 10 provinciale Overijsselse speerpunten
+NL,Netherlands,9,Overijsel,22420,VVD,Volkspartij voor Vrijheid en Democratie,People's Party for Freedom and Democraty,2011,Vrijheid, Verantwoordelijkheid en Daadkracht - Programma voor de verkiezingen van Provinciale Staten in Overijssel op 2 maart 2011
+NL,Netherlands,9,Overijsel,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,2011,Ruimte om te leven - SGP-verkiezingsprogramma provincie Overijssel 2011-2015
+NL,Netherlands,9,Overijsel,22521,CDA,Christen Democratisch Appèl,Christian Democratic Appeal,2011,Samen sterk voor Overijssel - Verkiezingsprogramma 2011-2015
+NL,Netherlands,9,Overijsel,22526,CU,ChristenUnie,Christian Union,2011, Uit Overtuiging - Voor Vrijheid, Betrokkenheid en Noaberschap - Verkiezingsprogramma cu provinciale Staten 2011-2015
+NL,Netherlands,9,Overijsel,22952,PvdD,Partij voor de Dieren,Party for the Animals,2011, Dieren, Natuur ein Milieu in alle Staten - Provinciale Statenverkiezingen 2011 - Geef de Dieren in Overijsel een Stem
