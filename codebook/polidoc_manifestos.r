@@ -8,7 +8,7 @@ library(xtable)
 #Downlaod .csv for regions and nations into working directory 
 
 #path <- "U:/Service MZES/Text Data/Polidoc"
-#path <- ""
+path <- "C:/Users/jbernaue/Desktop/polidoc-master 171115 0825/codebook"
 setwd(path) 
 
 ##########
@@ -122,102 +122,102 @@ uk$cmpcode <- as.numeric(uk$cmpcode)
 
 #national plots 
 postscript("at_nat.eps", width = 1000, height = 1000)
-stripchart(at$year ~ as.character(at$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Austria",)
+stripchart(at$year ~ as.character(at$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Austria")
 axis(1, at = seq(min(at$year), max(at$year), by = 1), las = 2)
 dev.off()
 
 postscript("be_nat.eps", width = 1000, height = 1000)
-stripchart(be$year ~ as.character(be$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Belgium",)
+stripchart(be$year ~ as.character(be$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Belgium")
 axis(1, at = seq(min(be$year), max(be$year), by = 1), las = 2)
 dev.off()
 
 postscript("cz_nat.eps", width = 1000, height = 1000)
-stripchart(cz$year ~ as.character(cz$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Czech Republic",)
+stripchart(cz$year ~ as.character(cz$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Czech Republic")
 axis(1, at = seq(min(cz$year), max(cz$year), by = 1), las = 2)
 dev.off()
 
 postscript("dk_nat.eps", width = 1000, height = 1000)
-stripchart(dk$year ~ as.character(dk$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Denmark",)
+stripchart(dk$year ~ as.character(dk$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Denmark")
 axis(1, at = seq(min(dk$year), max(dk$year), by = 1), las = 2)
 dev.off()
 
 postscript("ee_nat.eps", width = 1000, height = 1000)
-stripchart(ee$year ~ as.character(ee$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Estonia",)
+stripchart(ee$year ~ as.character(ee$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Estonia")
 axis(1, at = seq(min(ee$year), max(ee$year), by = 1), las = 2)
 dev.off()
 
 postscript("fi_nat.eps", width = 1000, height = 1000)
-stripchart(fi$year ~ as.character(fi$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Finland",)
+stripchart(fi$year ~ as.character(fi$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Finland")
 axis(1, at = seq(min(fi$year), max(fi$year), by = 1), las = 2)
 dev.off()
 
 postscript("fr_nat.eps", width = 1000, height = 1000)
-stripchart(fr$year ~ as.character(fr$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for France",)
+stripchart(fr$year ~ as.character(fr$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for France")
 axis(1, at = seq(min(fr$year), max(fr$year), by = 1), las = 2)
 dev.off()
 
 postscript("de_nat.eps", width = 1000, height = 1000)
-stripchart(de$year ~ as.character(de$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Germany",)
+stripchart(de$year ~ as.character(de$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Germany")
 axis(1, at = seq(min(de$year), max(de$year), by = 1), las = 2)
 dev.off()
 
 postscript("ie_nat.eps", width = 1000, height = 1000)
-stripchart(ie$year ~ as.character(ie$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for ireland",)
+stripchart(ie$year ~ as.character(ie$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for ireland")
 axis(1, at = seq(min(ie$year), max(ie$year), by = 1), las = 2)
 dev.off()
 
 postscript("it_nat.eps", width = 1000, height = 1000)
-stripchart(it$year ~ as.character(it$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Italy",)
+stripchart(it$year ~ as.character(it$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Italy")
 axis(1, at = seq(min(it$year), max(it$year), by = 1), las = 2)
 dev.off()
 
 postscript("lu_nat.eps", width = 1000, height = 1000)
-stripchart(lu$year ~ as.character(lu$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Luxembourg",)
+stripchart(lu$year ~ as.character(lu$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Luxembourg")
 axis(1, at = seq(min(lu$year), max(lu$year), by = 1), las = 2)
 dev.off()
 
 postscript("mt_nat.eps", width = 1000, height = 1000)
-stripchart(mt$year ~ as.character(mt$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Malta",)
+stripchart(mt$year ~ as.character(mt$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Malta")
 axis(1, at = seq(min(mt$year), max(mt$year), by = 1), las = 2)
 dev.off()
 
 postscript("nl_nat.eps", width = 1000, height = 1000)
-stripchart(nl$year ~ as.character(nl$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Netherlands",)
+stripchart(nl$year ~ as.character(nl$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Netherlands")
 axis(1, at = seq(min(nl$year), max(nl$year), by = 1), las = 2)
 dev.off()
 
 postscript("no_nat.eps", width = 1000, height = 1000)
-stripchart(no$year ~ as.character(no$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Norway",)
+stripchart(no$year ~ as.character(no$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Norway")
 axis(1, at = seq(min(no$year), max(no$year), by = 1), las = 2)
 dev.off()
 
 postscript("pl_nat.eps", width = 1000, height = 1000)
-stripchart(pl$year ~ as.character(pl$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Poland",)
+stripchart(pl$year ~ as.character(pl$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Poland")
 axis(1, at = seq(min(pl$year), max(pl$year), by = 1), las = 2)
 dev.off()
 
 postscript("pt_nat.eps", width = 1000, height = 1000)
-stripchart(pt$year ~ as.character(pt$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Portugal",)
+stripchart(pt$year ~ as.character(pt$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Portugal")
 axis(1, at = seq(min(pt$year), max(pt$year), by = 1), las = 2)
 dev.off()
 
 postscript("es_nat.eps", width = 1000, height = 1000)
-stripchart(es$year ~ as.character(es$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Spain",)
+stripchart(es$year ~ as.character(es$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Spain")
 axis(1, at = seq(min(es$year), max(es$year), by = 1), las = 2)
 dev.off()
 
 postscript("ch_nat.eps", width = 1000, height = 1000)
-stripchart(ch$year ~ as.character(ch$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Switzerland",)
+stripchart(ch$year ~ as.character(ch$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Switzerland")
 axis(1, at = seq(min(ch$year), max(ch$year), by = 1), las = 2)
 dev.off()
 
 postscript("se_nat.eps", width = 1000, height = 1000)
-stripchart(se$year ~ as.character(se$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Sweden",)
+stripchart(se$year ~ as.character(se$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Sweden")
 axis(1, at = seq(min(se$year), max(se$year), by = 1), las = 2)
 dev.off()
 
 postscript("uk_nat.eps", width = 1000, height = 1000)
-stripchart(uk$year ~ as.character(uk$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for United Kingdom",)
+stripchart(uk$year ~ as.character(uk$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for United Kingdom")
 axis(1, at = seq(min(uk$year[!is.na(uk$year)]), max(uk$year[!is.na(uk$year)]), by = 1), las = 2)
 dev.off()
 
@@ -323,6 +323,41 @@ esp17 <- read.csv(paste(path,"/codebookfiles/esp_valencia.csv",sep=""),sep=",", 
 uk1 <- read.csv(paste(path,"/codebookfiles/uk_scotland.csv",sep=""),sep=",", encoding = "UTF-8")
 uk2 <- read.csv(paste(path,"/codebookfiles/uk_wales.csv",sep=""),sep=",", encoding = "UTF-8")
 
+swe1 <- read.csv(paste(path,"/codebookfiles/se_blekinge.csv",sep=""),sep=",", encoding = "UTF-8")
+swe2 <- read.csv(paste(path,"/codebookfiles/se_dalarnas.csv",sep=""),sep=",", encoding = "UTF-8")
+swe3 <- read.csv(paste(path,"/codebookfiles/se_gävleborgs.csv",sep=""),sep=",", encoding = "UTF-8")
+swe4 <- read.csv(paste(path,"/codebookfiles/se_gotlands.csv",sep=""),sep=",", encoding = "UTF-8")
+swe5 <- read.csv(paste(path,"/codebookfiles/se_hallands.csv",sep=""),sep=",", encoding = "UTF-8")
+swe6 <- read.csv(paste(path,"/codebookfiles/se_jämtlands.csv",sep=""),sep=",", encoding = "UTF-8")
+swe7 <- read.csv(paste(path,"/codebookfiles/se_jönköpings.csv",sep=""),sep=",", encoding = "UTF-8")
+swe8 <- read.csv(paste(path,"/codebookfiles/se_kalmar.csv",sep=""),sep=",", encoding = "UTF-8")
+swe9 <- read.csv(paste(path,"/codebookfiles/se_kronobergs.csv",sep=""),sep=",", encoding = "UTF-8")
+swe10 <- read.csv(paste(path,"/codebookfiles/se_norrbottens.csv",sep=""),sep=",", encoding = "UTF-8")
+swe11 <- read.csv(paste(path,"/codebookfiles/se_örebro.csv",sep=""),sep=",", encoding = "UTF-8")
+swe12 <- read.csv(paste(path,"/codebookfiles/se_östergötlands.csv",sep=""),sep=",", encoding = "UTF-8")
+swe13 <- read.csv(paste(path,"/codebookfiles/se_skane.csv",sep=""),sep=",", encoding = "UTF-8")
+swe14 <- read.csv(paste(path,"/codebookfiles/se_södermansland.csv",sep=""),sep=",", encoding = "UTF-8")
+swe15 <- read.csv(paste(path,"/codebookfiles/se_stockholms.csv",sep=""),sep=",", encoding = "UTF-8")
+swe16 <- read.csv(paste(path,"/codebookfiles/se_uppsala.csv",sep=""),sep=",", encoding = "UTF-8")
+swe17 <- read.csv(paste(path,"/codebookfiles/se_värmlands.csv",sep=""),sep=",", encoding = "UTF-8")
+swe18 <- read.csv(paste(path,"/codebookfiles/se_västerbottens.csv",sep=""),sep=",", encoding = "UTF-8")
+swe19 <- read.csv(paste(path,"/codebookfiles/se_västernorrlands.csv",sep=""),sep=",", encoding = "UTF-8")
+swe20 <- read.csv(paste(path,"/codebookfiles/se_västmansland.csv",sep=""),sep=",", encoding = "UTF-8")
+swe21 <- read.csv(paste(path,"/codebookfiles/se_västragotalands.csv",sep=""),sep=",", encoding = "UTF-8")
+
+nl1 <- read.csv(paste(path,"/codebookfiles/nl_drenthe.csv",sep=""),sep=",", encoding = "UTF-8")
+nl2 <- read.csv(paste(path,"/codebookfiles/nl_flevoland.csv",sep=""),sep=",", encoding = "UTF-8")
+nl3 <- read.csv(paste(path,"/codebookfiles/nl_fryslän.csv",sep=""),sep=",", encoding = "UTF-8")
+nl4 <- read.csv(paste(path,"/codebookfiles/nl_gelderland.csv",sep=""),sep=",", encoding = "UTF-8")
+nl5 <- read.csv(paste(path,"/codebookfiles/nl_groningen.csv",sep=""),sep=",", encoding = "UTF-8")
+nl6 <- read.csv(paste(path,"/codebookfiles/nl_limburg.csv",sep=""),sep=",", encoding = "UTF-8")
+nl7 <- read.csv(paste(path,"/codebookfiles/nl_noordbrabant.csv",sep=""),sep=",", encoding = "UTF-8")
+nl8 <- read.csv(paste(path,"/codebookfiles/nl_noordholland.csv",sep=""),sep=",", encoding = "UTF-8")
+nl9 <- read.csv(paste(path,"/codebookfiles/nl_overijsel.csv",sep=""),sep=",", encoding = "UTF-8")
+nl10 <- read.csv(paste(path,"/codebookfiles/nl_utrecht.csv",sep=""),sep=",", encoding = "UTF-8")
+nl11 <- read.csv(paste(path,"/codebookfiles/nl_zeeland.csv",sep=""),sep=",", encoding = "UTF-8")
+nl12 <- read.csv(paste(path,"/codebookfiles/nl_zuidholland.csv",sep=""),sep=",", encoding = "UTF-8")
+
 #collect regional files per country 
 atreg <- rbind(at1,at2,at3,at4,at5,at6,at7,at8,at9)
 
@@ -337,6 +372,10 @@ dereg <- rbind(de1,de2,de3,de4,de5,de6,de7,de8,de9,de10,de11,de12,de13,de14,de15
 esreg <- rbind(esp1,esp2,esp3,esp4,esp5,esp6,esp7,esp8,esp9,esp10,esp11,esp12,esp13,esp14,esp15,esp16,esp17)
 
 ukreg <- rbind(uk1,uk2)
+
+sereg <- rbind(swe1,swe2,swe3,swe4,swe5,swe6,swe7,swe8,swe9,swe10,swe11,swe12,swe13,swe14,swe15,swe15,swe16,swe17,swe18,swe19,swe20,swe21)
+
+nlreg <- rbind(nl1,nl2,nl3,nl4,nl5,nl6,nl7,nl8,nl9,nl10,nl11,nl12)
 
 #fixes
 atreg$acronym <- as.character(atreg$acronym)
@@ -367,43 +406,59 @@ ukreg$acronym <- as.character(ukreg$acronym)
 ukreg$year <- as.numeric(as.character(ukreg$year))
 ukreg$cmpcode <- as.numeric(ukreg$cmpcode)
 
+sereg$acronym <- as.character(sereg$acronym)
+sereg$year <- as.numeric(as.character(sereg$year))
+sereg$cmpcode <- as.numeric(sereg$cmpcode)
+
+nlreg$acronym <- as.character(nlreg$acronym)
+nlreg$year <- as.numeric(as.character(nlreg$year))
+nlreg$cmpcode <- as.numeric(nlreg$cmpcode)
 
 #region plots 
 postscript("at_reg.eps", width = 1000, height = 1000)
-stripchart(atreg$year ~ as.character(atreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Austria (regional)",)
+stripchart(atreg$year ~ as.character(atreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Austria (regional)")
 axis(1, at = seq(min(atreg$year), max(atreg$year), by = 1), las = 2)
 dev.off()
 
 postscript("be_reg.eps", width = 1000, height = 1000)
-stripchart(bereg$year ~ as.character(bereg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Belgium (regional)",)
+stripchart(bereg$year ~ as.character(bereg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Belgium (regional)")
 axis(1, at = seq(min(bereg$year), max(bereg$year), by = 1), las = 2)
 dev.off()
 
 postscript("cz_reg.eps", width = 1000, height = 1000)
-stripchart(czreg$year ~ as.character(czreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Czech Republic (regional)",)
+stripchart(czreg$year ~ as.character(czreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Czech Republic (regional)")
 axis(1, at = seq(min(czreg$year), max(czreg$year), by = 1), las = 2)
 dev.off()
 
 postscript("ch_reg.eps", width = 1000, height = 1000)
-stripchart(chreg$year ~ as.character(chreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Switzerland (regional)",)
+stripchart(chreg$year ~ as.character(chreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Switzerland (regional)")
 axis(1, at = seq(min(chreg$year), max(chreg$year), by = 1), las = 2)
 dev.off()
 
 postscript("de_reg.eps", width = 1000, height = 1000)
-stripchart(dereg$year ~ as.character(dereg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Germany (regional)",)
+stripchart(dereg$year ~ as.character(dereg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Germany (regional)")
 axis(1, at = seq(min(dereg$year), max(dereg$year), by = 1), las = 2)
 dev.off()
 
 postscript("es_reg.eps", width = 1000, height = 1000)
-stripchart(esreg$year ~ as.character(esreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Spain (regional)",)
+stripchart(esreg$year ~ as.character(esreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Spain (regional)")
 axis(1, at = seq(min(esreg$year), max(esreg$year), by = 1), las = 2)
 dev.off()
 
 postscript("uk_reg.eps", width = 1000, height = 1000)
-stripchart(ukreg$year ~ as.character(ukreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for United Kingdom (regional)",)
+stripchart(ukreg$year ~ as.character(ukreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for United Kingdom (regional)")
 axis(1, at = seq(min(ukreg$year), max(ukreg$year), by = 1), las = 2)
 dev.off()
 
+postscript("se_reg.eps", width = 1000, height = 1000)
+stripchart(sereg$year ~ as.character(sereg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Sweden (regional)")
+axis(1, at = seq(min(sereg$year), max(sereg$year), by = 1), las = 2)
+dev.off()
+
+postscript("nl_reg.eps", width = 1000, height = 1000)
+stripchart(nlreg$year ~ as.character(nlreg$acronym),pch=3,ylab="Party Acronym",xlab="",xaxt="n",cex=1.5,cex.axis=.5,main="Coverage for Netherlands (regional)")
+axis(1, at = seq(min(nlreg$year), max(nlreg$year), by = 1), las = 2)
+dev.off()
 
 ############
 #Party list#
@@ -413,7 +468,7 @@ dev.off()
 
 cmp1 <- rbind(at,be,cz,dk,ee,fi,fr,de,ie,it,lu,mt,nl,no,pl,pt,es,ch,se,uk) 
 
-cmp2 <- rbind(atreg,bereg,czreg,chreg,dereg,ukreg,esreg)
+cmp2 <- rbind(atreg,bereg,czreg,chreg,dereg,ukreg,esreg,sereg,nlreg)
 
 cmp1a  <- aggregate(cmp1, by=list(cmp1$country_name,cmp1$cmpcode,cmp1$acronym,cmp1$party_engl),FUN=mean,na.rm=TRUE)
 cmp1a <- subset(cmp1a, select=c(Group.1,Group.2,Group.3,Group.4))

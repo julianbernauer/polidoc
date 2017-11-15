@@ -6,6 +6,7 @@
 \usepackage{graphicx}
 \usepackage[ansinew]{inputenc}
 \usepackage{lscape}
+\usepackage{longtable}
 
 \begin{document}
 
@@ -24,7 +25,14 @@ The Impact of EU Cohesion Policy on European Identification \\ (COHESIFY)
 
 \date{\today}
 
-\author{Prepared by the Polidoc.net Team}
+\author{
+\small
+Prepared by the Polidoc.net Team \\ \small
+ headed by Thomas Bräuninger (University of Mannheim), \\ \small
+ Marc Debus (University of Mannheim), \\ \small
+ Kenneth Benoit (London School of Economics and Political Science) \\ \small
+ and Julian Bernauer (Mannheim Centre for European Social Research)
+}
 
 \maketitle
 
@@ -80,20 +88,32 @@ The structure of the files is as follows: Each file is labeled with a 5-digit co
 \newpage
 
 \section{Citation}
-The archive is maintained by Thomas Bräuninger (University of Mannheim), Marc Debus (University of Mannheim) and Kenneth Benoit (London School of Economics and Political Science). If data are used in publications etc. please refer to the Political Documents Archive as data source:
+The archive is maintained by Thomas Bräuninger (University of Mannheim), Marc Debus (University of Mannheim), Kenneth Benoit (London School of Economics and Political Science) and Julian Bernauer (Mannheim Centre for European Social Research). If data are used in publications etc. please refer to the Political Documents Archive as data source:
 
-Kenneth Benoit, Thomas Bräuninger, and Marc Debus. 2009. "`Challenges for estimating policy preferences: Announcing an open access archive of political documents."' \textit{German Politics} 18(3): 440-453.
+Kenneth Benoit, Thomas Bräuninger, and Marc Debus. 2009. "Challenges for estimating policy preferences: Announcing an open access archive of political documents." \textit{German Politics} 18(3): 440-453.
 
 Please refer additionally to the following article when using data of parties from the regional level: 
 
-Martin Gross and Marc Debus. 2017. "`Does EU Regional Policy Increase Parties’ Support for European Integration?"' \textit{West European Politics} (forthcoming).
+Martin Gross and Marc Debus. 2017. "Does EU Regional Policy Increase Parties’ Support for European Integration?" \textit{West European Politics} (forthcoming).
 
 \section{Feedback}
-Please feel free to contact us using the contact form on http://www.polidoc.net.
+Please contact us using the form on \url{http://www.polidoc.net}.
 
 \section{Document matrices per country or state}
 The remainder of the documentation provides matrices per country (national/regional), providing information on the elections and parties covered. Further information provided are unique codes for the single parties (using CMP-codes as a point of departure as described above) as well as full party names.
 
+
+\clearpage
+
+\begin{landscape}
+
+\subsection{National documents}
+
+
+%add "`longtable"' in file 
+\input{tab_national}
+
+\end{landscape}
 
 \clearpage
 
@@ -104,13 +124,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{at_nat.eps}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-		\includegraphics[width=1\textwidth, angle=90]{at_reg.eps}
-\end{figure}
-
-\clearpage
-\input{tab_at}
 
 \clearpage
 
@@ -120,13 +133,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{be_nat.eps}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-		\includegraphics[width=1\textwidth, angle=90]{be_reg.eps}
-\end{figure}
-
-\clearpage
-\input{tab_be}
 
 \clearpage
 
@@ -136,13 +142,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{cz_nat.eps}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-		\includegraphics[width=1\textwidth, angle=90]{cz_reg.eps}
-\end{figure}
-
-\clearpage
-\input{tab_cz}
 
 \clearpage
 
@@ -152,9 +151,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{dk_nat.eps}
 \end{figure}
 
-\clearpage
-\input{tab_dk}
-
 
 \clearpage
 
@@ -163,9 +159,6 @@ The remainder of the documentation provides matrices per country (national/regio
 	\centering
 		\includegraphics[width=1\textwidth, angle=90]{ee_nat.eps}
 \end{figure}
-
-\clearpage
-\input{tab_ee}
 
 
 \clearpage
@@ -177,18 +170,12 @@ The remainder of the documentation provides matrices per country (national/regio
 \end{figure}
 
 \clearpage
-\input{tab_fi}
-
-\clearpage
 
 
 \begin{figure}[ht]
 	\centering
 		\includegraphics[width=1\textwidth, angle=90]{fr_nat.eps}
 \end{figure}
-
-\clearpage
-\input{tab_fr}
 
 
 \clearpage
@@ -198,14 +185,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{de_nat.eps}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-		\includegraphics[width=1\textwidth, angle=90]{de_reg.eps}
-\end{figure}
-
-\clearpage
-\input{tab_de}
-
 
 \clearpage
 
@@ -213,9 +192,6 @@ The remainder of the documentation provides matrices per country (national/regio
 	\centering
 		\includegraphics[width=1\textwidth, angle=90]{ie_nat.eps}
 \end{figure}
-
-\clearpage
-\input{tab_ie}
 
 
 \clearpage
@@ -226,9 +202,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{it_nat.eps}
 \end{figure}
 
-\clearpage
-\input{tab_it}
-
 
 \clearpage
 
@@ -238,8 +211,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{lu_nat.eps}
 \end{figure}
 
-\clearpage
-\input{tab_lu}
 
 \clearpage
 
@@ -249,8 +220,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{mt_nat.eps}
 \end{figure}
 
-\clearpage
-\input{tab_mt}
 
 \clearpage
 
@@ -259,9 +228,6 @@ The remainder of the documentation provides matrices per country (national/regio
 	\centering
 		\includegraphics[width=1\textwidth, angle=90]{nl_nat.eps}
 \end{figure}
-
-\clearpage
-\input{tab_ne}
 
 
 \clearpage
@@ -272,9 +238,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{no_nat.eps}
 \end{figure}
 
-\clearpage
-\input{tab_no}
-
 
 \clearpage
 
@@ -284,19 +247,14 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{pl_nat.eps}
 \end{figure}
 
-\clearpage
-\input{tab_po}
 
 \clearpage
 
 
 \begin{figure}[ht]
 	\centering
-		\includegraphics[width=1\textwidth, angle=90]{pt.eps}
+		\includegraphics[width=1\textwidth, angle=90]{pt_nat.eps}
 \end{figure}
-
-\clearpage
-\input{tab_pt}
 
 
 \clearpage
@@ -307,14 +265,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{es_nat.eps}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-		\includegraphics[width=1\textwidth, angle=90]{es_reg.eps}
-\end{figure}
-
-\clearpage
-\input{tab_es}
-
 
 \clearpage
 
@@ -322,9 +272,6 @@ The remainder of the documentation provides matrices per country (national/regio
 	\centering
 		\includegraphics[width=1\textwidth, angle=90]{se_nat.eps}
 \end{figure}
-
-\clearpage
-\input{tab_se}
 
 
 \clearpage
@@ -334,14 +281,6 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{ch_nat.eps}
 \end{figure}
 
-\begin{figure}[ht]
-	\centering
-		\includegraphics[width=1\textwidth, angle=90]{ch_reg.eps}
-\end{figure}
-
-\clearpage
-\input{tab_ch}
-
 
 \clearpage
 
@@ -350,14 +289,63 @@ The remainder of the documentation provides matrices per country (national/regio
 		\includegraphics[width=1\textwidth, angle=90]{uk_nat.eps}
 \end{figure}
 
+
+\end{landscape}
+
+\clearpage
+
+\subsection{Regional documents}
+
+%\input{tab_regional}
+
+\clearpage 
+
+\begin{landscape}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{at_reg.eps}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{be_reg.eps}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{cz_reg.eps}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{de_reg.eps}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{es_reg.eps}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{nl_reg.eps}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{se_reg.eps}
+\end{figure}
+
+\begin{figure}[ht]
+	\centering
+		\includegraphics[width=1\textwidth, angle=90]{ch_reg.eps}
+\end{figure}
+
 \begin{figure}[ht]
 	\centering
 		\includegraphics[width=1\textwidth, angle=90]{uk_reg.eps}
 \end{figure}
-
-\clearpage
-\input{tab_uk}
-
 
 \end{landscape}
 
