@@ -1,28 +1,46 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-DE,Deutschland,13,Saarland,41953,AfD,Alternative f�r Deutschland,Alternative for Germany,2017,Landtagswahlprogramm 2017
+DE,Deutschland,13,Saarland,41953,AfD,Alternative für Deutschland,Alternative for Germany,2017,Landtagswahlprogramm 2017
 DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1975,Der sichere Weg in die Achtziger Jahre
-DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1980,Weiter voran mit dem CDU-Programm f�r die achtziger Jahre
-DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1985,Programm '85-90. Zukunft f�r unser Saarland. Daf�r arbeiten wir. Mit ganzem Herzen dabei CDU Saar
-DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1990,Programm �90 � �95. Gl�ckauf Saarland � Willkommen Europa
+DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1980,Weiter voran mit dem CDU-Programm für die achtziger Jahre
+DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1985,Programm '85-90. Zukunft für unser Saarland. Dafür arbeiten wir. Mit ganzem Herzen dabei CDU Saar
+DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1990,Programm ´90 – ´95. Glückauf Saarland – Willkommen Europa
 DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1994,No title
 DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1999,Zukunftsprojekt Saar. Programm der CDU Saar zur Landtagswahl 1999
 DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2004,Fortsetzung folgt! Wir gestalten die Zukunft! Politik in drei Dimensionen. Wahl-Manifest der CDU Saar zur Landtagswahl am 05. September 2004
 DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2009,Leitlinien der CDU Saar zur Landtagswahl am 30. August 2009
-DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2012,UNSER SAARLAND VON MORGEN
-DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2017,Zukunftsplan Saar � F�r ein eigenst�ndiges und starkes Saarland!
-DE,Deutschland,13,Saarland,41001,COAL,Koalition: CDU/SPD,Coalition: CDU/SPD,2012,Chancen nutzen. Zusammenhalt bewahren. Eigenst�ndigkeit sichern. Gemeinsam Verantwortung tragen f�r unser Saarland
-DE,Deutschland,13,Saarland,41001,COAL,Koalition: CDU/SPD,Coalition: CDU/SPD,2017,F�r die Zukunft unseres Landes. Solide wirtschaften - mutig gestalten - mehr investieren.
-DE,Deutschland,13,Saarland,41223,LINKE,Die Linke,The left,2012,Soziale Gerechtigkeit � Jetzt nur noch mit uns!
-DE,Deutschland,13,Saarland,41223,LINKE,Die Linke,The left,2017,Programm der Partei DIE LINKE zur Landtagswahl 2017 
+DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2012,Unser Saarland von Morgen - Regierungsprogramm 2012-2017
+DE,Deutschland,13,Saarland,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2017,Zukunftsplan Saar – Für ein eigenständiges und starkes Saarland!
+DE,Deutschland,13,Saarland,41001,COAL,Koalition:CDU/FDP,Coalition:CDU/FDP,2009,Neue Wege für ein modernes Saarland. Den Fortschritt nachhaltig gestalten
+DE,Deutschland,13,Saarland,41001,COAL,Koalition:CDU/SPD,Coalition:CDU/SPD,2012,Chancen nutzen. Zusammenhalt bewahren. Eigenständigkeit sichern. Gemeinsam Verantwortung tragen für unser Saarland
+DE,Deutschland,13,Saarland,41001,COAL,Koalition:CDU/SPD,Coalition:CDU/SPD,2017,Für die Zukunft unseres Landes. Solide wirtschaften - mutig gestalten - mehr investieren.
+DE,Deutschland,13,Saarland,41223,LINKE,Die Linke,The left,2009,Dafür steht Die Linke in unserem Saarland Programm zur Landtagswahl 2009 – Für mehr soziale Gerechtigkeit
+DE,Deutschland,13,Saarland,41223,LINKE,Die Linke,The left,2012,Soziale Gerechtigkeit – Jetzt nur noch mit uns!
+DE,Deutschland,13,Saarland,41223,LINKE,Die Linke,The left,2017,Programm der Partei Die Linke zur Landtagswahl 2017 
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1975,Saarland-liberal
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1980,Grundsätze liberaler Landespolitik
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1985,Wahlprogramm zur Landtagswahl 1985 der Freien Demokratischen Partei Landesverband Saarland
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1990,„Liberale Perspektiven – Saarland ´95“. Wahlplattform der F.D.P. Saar zur Landtagswahl vom 28. Januar 1990
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1994,Wahlplattform zur Landtagswahl 1994. Eine sichere Zukunft für unser Land. Neue Arbeitsplätze mit Kompetenz und Ideen!
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1999,Das Saarland braucht den Wechsel. Chancen nutzen – Zukunft gewinnen – Selbständigkeit des Landes sichern
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2004,Mehr Mut, Saarland! Das Zukunftsprogramm der Saarliberalen für die europäische Pionierregion
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2009,Programm für dich. Landtagswahlprogramm 2009 der FDP Saar
+DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2012,Gerade jetzt! Programm zur Landtagswahl
 DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2017,Das neue Saarland.
-DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei ,Free Democratic Party,1975,Saarland-liberal
-DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei ,Free Democratic Party,1980,Grunds�tze liberaler Landespolitik
-DE,Deutschland,13,Saarland,41420,FDP,Freie Demokratische Partei ,Free Democratic Party,2012,Gerade jetzt! 
-DE,Deutschland,13,Saarland,41111,GR�NE,B�ndnis90/Die Gr�nen,Alliance '90 / Die Gr�nen,1980,Dir Gr�nen Saar. Kurzprogramm.
-DE,Deutschland,13,Saarland,41113,GR�NE,B�ndnis90/Die Gr�nen,Alliance '90 / Die Gr�nen,2012,Die echte Wahl!
-DE,Deutschland,13,Saarland,41113,GR�NE,B�ndnis90/Die Gr�nen,Alliance '90 / Die Gr�nen,2017,F�r die Zukunft. Gr�n w�hlen.
+DE,Deutschland,13,Saarland,41111,GRÜNE,Die Grünen,Die Grünen,1980,Dir Grünen Saar. Kurzprogramm.
+DE,Deutschland,13,Saarland,41113,GRÜNE,Bündnis90/Die Grünen,Alliance'90/Die Grünen,1994,Ohne uns wird alles Filz
+DE,Deutschland,13,Saarland,41113,GRÜNE,Bündnis90/Die Grünen,Alliance'90/Die Grünen,1999,Programm zur Landtagswahl 1999
+DE,Deutschland,13,Saarland,41113,GRÜNE,Bündnis90/Die Grünen,Alliance'90/Die Grünen,2004,Neue Energie für das Saarland. Landtagswahlprogramm 2004 von Bündnis 90/Die Grünen Saar
+DE,Deutschland,13,Saarland,41113,GRÜNE,Bündnis90/Die Grünen,Alliance'90/Die Grünen,2009,Landtagswahlprogramm 2009 Zeit für Veränderung! JETZT! FÜR Umwelt, Klima, Bildung, Gerechtigkeit.
+DE,Deutschland,13,Saarland,41113,GRÜNE,Bündnis90/Die Grünen,Alliance'90/Die Grünen,2012,Die echte Wahl!
+DE,Deutschland,13,Saarland,41113,GRÜNE,Bündnis90/Die Grünen,Alliance'90/Die Grünen,2017,Für die Zukunft. Grün wählen.
 DE,Deutschland,13,Saarland,41950,Pirat,Piratenpartei Deutschland,Pirate Party Germany,2012,Wahlprogramm zur Landtagswahl 2012
-DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1975,Die neue Kraft an der Saar: Friedel L�pple und sein Team
+DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1975,Die neue Kraft an der Saar: Friedel Läpple und sein Team
 DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1980,Die Zukunft menschlich gestalten
+DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1985,Regierungsprogramm 1985 SPD Saar
+DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1990,Regierungsprogramm 1990/1995. Unser Saarland gewinnt. Bilanz und Perspektive sozialdemokratischer Regierungsverantwortung an der Saar
+DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1994,Programm der SPD Saar für die Jahre 1995 – 2000. Leistung und Perspektive
+DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1999,Das Programm der SPD für das Saarland. Ein starkes Saarland in Deutschland und Europa.
+DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2004,Unser Saarland stark machen Projekte für ein starkes Saarland. Regierungsprogramm der SPD Saar 2004 – 2009
+DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2009,Regierungsprogramm für ein faires, modernes Saarland. Ein faires, modernes Saarland. Wir machen´s.
 DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2012,Ein Saarland mit Zukunft. Solidarisch und stark.
 DE,Deutschland,13,Saarland,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2017,Regierungsprogramm der SPD Saar 2017 - 2022
