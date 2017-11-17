@@ -1,9 +1,7 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-
 NL,Netherlands,10,Utrecht,22320,PvdA,Partij van de Arbeid,Labour Party,2003,Betaalbaar wonen in een veilige en groene provincie
 NL,Netherlands,10,Utrecht,22330,D66,Democraten 66,Democrats 66,2003,Efficiënt gebruik van de schaarse ruimte en houd Utrecht groen! Verkiezingsprogramma D66 Provinciale Statenverkiezingen 2003
-
-NL,Netherlands,10,Utrecht,22110,GL,Groen Links,GreenLeft,2007, Voor een groen, sociaal en tolerant Utrecht - De provinciale vernieuwingsagenda van Groen Links
+NL,Netherlands,10,Utrecht,22110,GL,Groen Links,GreenLeft,2007,"Voor een groen, sociaal en tolerant Utrecht - De provinciale vernieuwingsagenda van Groen Links"
 NL,Netherlands,10,Utrecht,22220,SP,Socialistische Partij,Socialist Party,2007,Verkiezingsprogramma 2007-2011 SP Provincie Utrecht
 NL,Netherlands,10,Utrecht,22320,PvdA,Partij van de Arbeid,Labour Party,2007,Iedereen telt me - erkiezingsprogramma Partij van de Arbeit voor de Provincie Utrecht 2007-2011
 NL,Netherlands,10,Utrecht,22330,D66,Democraten 66,Democrats 66,2007,Groen & Groei voor Utrecht! - Verkiezingsprogramma D66 Provincie Utrecht 2007-2011
@@ -12,7 +10,6 @@ NL,Netherlands,10,Utrecht,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Po
 NL,Netherlands,10,Utrecht,22521,CDA,Christen Democratisch Appèl,Christian Democratic Appeal,2007,Het 7 punten van het CDA
 NL,Netherlands,10,Utrecht,22526,CU,ChristenUnie,Christian Union,2007,Verkiezingsprogramma Provinciale Staten Utrecht 2007-2011 - Kiezen met karakter in Utrecht
 NL,Netherlands,10,Utrecht,22952,PvdD,Partij voor de Dieren,Party for the Animals,2007,Mededogen in alle Staten - Verkiezingsprogramma Partij voor de Dieren Provinciale Staten van Utrecht 2007
-
 NL,Netherlands,10,Utrecht,22110,GL,Groen Links,GreenLeft,2011,Kies voor de Toekomst- Verkiezingsprogramma GroenLinks Provincie Utrecht 2011 
 NL,Netherlands,10,Utrecht,22220,SP,Socialistische Partij,Socialist Party,2011,Voor een beter Utrecht! Verkiezingsprogramma SP Utrecht provinciale Staten 2011-2015
 NL,Netherlands,10,Utrecht,22320,PvdA,Partij van de Arbeid,Labour Party,2011, Verkiezingsprogramma PvdA voor Provinciale Staten van Utrecht 2011-2015 - Meedoen en eerlinjk Delen
@@ -21,7 +18,7 @@ NL,Netherlands,10,Utrecht,22420,VVD,Volkspartij voor Vrijheid en Democratie,Peop
 NL,Netherlands,10,Utrecht,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,2011, SGP Utrecht - Verkiezingsprogramma
 NL,Netherlands,10,Utrecht,22521,CDA,Christen Democratisch Appèl,Christian Democratic Appeal,2011,Utrecht: in goede handen - CDA verkiezingsprogramma periode 2010-2014
 NL,Netherlands,10,Utrecht,22526,CU,ChristenUnie,Christian Union,2011,Uit overtuiging - Verkiezingsprogramma 2011-2015 Provincie Utrecht
-NL,Netherlands,10,Utrecht,22952,PvdD,Partij voor de Dieren,Party for the Animals,2011,  Dieren, Natuur ein Milieu in alle Staten - Provinciale Statenverkiezingen 2011 - Geef de Dieren in Utrecht een Stem
+NL,Netherlands,10,Utrecht,22952,PvdD,Partij voor de Dieren,Party for the Animals,2011,"Dieren, Natuur ein Milieu in alle Staten - Provinciale Statenverkiezingen 2011 - Geef de Dieren in Utrecht een Stem"
 NL,Netherlands,10,Utrecht,22601,PVV,Partij voor Vrijheid,Party for Freedom,2011,De agenda voor herkenning en verandering - Een tijd om te kiezen: PVV Utrecht 2011-2015
 NL,Netherlands,10,Utrecht,22906,50+,50PLUS,50PLUS,2011,Provinciale speerpunten Utrecht
 
