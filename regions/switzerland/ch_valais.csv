@@ -1,9 +1,7 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
 CH,Switzerland,24,Valais,43810,SVP,Schweizerische Volkspartei,Swiss People's Party,2004,Programme cantonal de l'UDC Valais romand
-
 CH,Switzerland,24,Valais,43420,FDP,Freisinnig-Demokratische Partei,Free Democratic Party,2007,Elections fédérales 2007 Parti Radical Démocratique Valaisan Programme
-
 CH,Switzerland,24,Valais,43110,GPS,Grüne Partei der Schweiz, Green Party of Switzerland,2009,Les Verts valaisans Programme politique
 CH,Switzerland,24,Valais,43320,SP, Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2009, Plateforme électorale 2009 
-CH,Switzerland,24,Valais,43420,FDP,Freisinnig-Demokratische Partei,Free Democratic Party,FDP Wahlprogramm
+CH,Switzerland,24,Valais,43420,FDP,Freisinnig-Demokratische Partei,Free Democratic Party,,FDP Wahlprogramm
 CH,Switzerland,24,Valais,43520,CVP,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2009,Programme 2009-2013 du PDC
