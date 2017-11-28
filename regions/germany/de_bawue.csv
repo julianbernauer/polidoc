@@ -1,29 +1,50 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-DE,Deutschland,3,Baden-Württemberg,41953,AfD,Alternative für Deutschland,Alternative for Germany,2016,Für unser Land - für unsere Werte
-DE,Deutschland,3,Baden-Württemberg,41601,ALFA,Allianz für Fortschritt und Aufbruch,Alliance for Progress and Renewal,2016,Grundlagen-Landtagswahlprogramm Baden-Württemberg 2016
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1976,BW Kurier. CDU-Zeitung für Baden-Württemberg
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1980,CDU Aus LIebe zum Land CDU 14. Landesparteitag Heidelberg 19.1.1980 Wahlplattform Landtagswahl 1980
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1980,Aus Liebe zum Land
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1984,Wahlplattform Landtagswahl 1984
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1984,Kraftvoll in die Zukunft
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1988,CDU aktiv für Baden-Württemberg
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1988,Unser Land in guter Hand
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1992,Wahlplattform Landtagswahl ´92
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1996,Aufbruch in die Zukunft. CDU. Regierungsprogramm 1996-2001: Für ein modernes und menschliches Baden-Württemberg.
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2001,Erfolgskurs Süd. Regierungsprogramm 2001-2006
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2006,In der Tat besser. Regierungsprogramm der CDU Baden-Württemberg 2006 – 2011
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2011,Der Baden-Württemberg-Weg im neuen Jahrzehnt
-DE,Deutschland,3,Baden-Württemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2016,Gemeinsam schaffen wir die beste Zukunft für unsere Heimat
-DE,Deutschland,3,Baden-Württemberg,41001,COAL,Koalition: GRÜNE/CDU,Coalition: GRÜNE/CDU,2016,Baden-Württemberg gestalten: Verlässlich. Nachhaltig. Innovativ.
-DE,Deutschland,3,Baden-Württemberg,41223,LINKE,Die Linke,The left,2016,DIE LINKE. In den Landtag. Original Sozial - Vor und nach der Wahl
-DE,Deutschland,3,Baden-Württemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2016,Mehr Chancen durch mehr Freiheit.
-DE,Deutschland,3,Baden-Württemberg,41420,FDP,Freie Demokratische Partei ,Free Democratic Party,1976,Mut zu morgen 
-DE,Deutschland,3,Baden-Württemberg,41420,FDP,Freie Demokratische Partei ,Free Democratic Party,1980,Leitlinien liberaler Landespolitik in Baden-Württemberg
-DE,Deutschland,3,Baden-Württemberg,41111,GRÜNE,Bündnis90/Die Grünen,Alliance '90 / Die Grünen,1980,Die Grünen Baden-Württemberg. Das Programm
-DE,Deutschland,3,Baden-Württemberg,41113,GRÜNE,Bündnis90/Die Grünen,Alliance '90 / Die Grünen,2016,Grün aus Verantwortung.
-DE,Deutschland,3,Baden-Württemberg,41701,REP,Die Republikaner,The Republicans,1992,Die Republikaner für Baden-Württemberg
-DE,Deutschland,3,Baden-Württemberg,41701,REP,Die Republikaner,The Republicans,1996,14 für unser Land
-DE,Deutschland,3,Baden-Württemberg,41701,REP,Die Republikaner,The Republicans,2001,Landtagswahlprogramm der Partei DIE REPUBLIKANER
-DE,Deutschland,3,Baden-Württemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1976,Wir haben für Baden-Württemberg das bessere Programm
-DE,Deutschland,3,Baden-Württemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1980,Für ein bißchen mehr Menschlichkeit.
-DE,Deutschland,3,Baden-Württemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2016,Baden-Württemberg leben.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41953,AfD,Alternative fÃ¼r Deutschland,Alternative for Germany,2016,FÃ¼r unser Land - fÃ¼r unsere Werte
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41601,ALFA,Allianz fÃ¼r Fortschritt und Aufbruch,Alliance for Progress and Renewal,2016,Grundlagen-Landtagswahlprogramm Baden-WÃ¼rttemberg 2016
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1976,BW Kurier. CDU-Zeitung fÃ¼r Baden-WÃ¼rttemberg
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1980,CDU Aus LIebe zum Land CDU 14. Landesparteitag Heidelberg 19.1.1980 Wahlplattform Landtagswahl 1980
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1980,Aus Liebe zum Land
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1984,Wahlplattform Landtagswahl 1984
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1984,Kraftvoll in die Zukunft
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1988,CDU aktiv fÃ¼r Baden-WÃ¼rttemberg
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1988,Unser Land in guter Hand
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1992,Wahlplattform Landtagswahl Â´92
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,1996,Aufbruch in die Zukunft. CDU. Regierungsprogramm 1996-2001: FÃ¼r ein modernes und menschliches Baden-WÃ¼rttemberg.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2001,Erfolgskurs SÃ¼d. Regierungsprogramm 2001-2006
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2006,In der Tat besser. Regierungsprogramm der CDU Baden-WÃ¼rttemberg 2006 â€“ 2011
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2011,Der Baden-WÃ¼rttemberg-Weg im neuen Jahrzehnt
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41521,CDU,Christlich Demokratische Union,Christian Democratic Union,2016,Gemeinsam schaffen wir die beste Zukunft fÃ¼r unsere Heimat
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41001,COAL,Koalition:CDU/SPD,Coalition:CDU/SPD,1992,"Vereinbarung zwischen der CDU, Landesverband Baden-WÃ¼rttemberg und der SPD, Landesverband Baden-WÃ¼rttemberg Ã¼ber die Bildung einer Koalitionsregierung fÃ¼r die 11. Legislaturperiode des Landtags von Baden-WÃ¼rttemberg"
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41001,COAL,Koalition:CDU/FDP,Coalition:CDU/FDP,1996,"Vereinbarung zwischen der CDU, Landesverband Baden-WÃ¼rttemberg, und der FDP/Demokratische Volkspartei, Landesverband Baden-WÃ¼rttemberg, Ã¼ber die Bildung einer Koalitionsregierung fÃ¼r die 12. Legislaturperiode des Landtags von Baden-WÃ¼rttem"
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41001,COAL,Koalition:CDU/FDP,Coalition:CDU/FDP,2001,"Vereinbarung zwischen der CDU, Landesverband Baden-WÃ¼rttemberg und der FDP/ Demokratische Volkspartei, Landesverband Baden-WÃ¼rttemberg Ã¼ber die Bildung einer Regierungskoalition fÃ¼r die 13. Legislaturperiode des Landtags von Baden-WÃ¼rttemb"
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41001,COAL,Koalition:CDU/FDP,Coalition:CDU/FDP,2006,"Vereinbarung zwischen der CDU, Landesverband Baden-WÃ¼rttemberg, und der FDP, Landesverband Baden-WÃ¼rttemberg, Ã¼ber die Bildung einer Koalitionsregierung fÃ¼r die 14. Legislaturperiode des Landtags von Baden-WÃ¼rttemberg"
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41001,COAL,Koalition:GrÃ¼ne/SPD,Coalition:GrÃ¼ne/SPD,2011,Der Wechsel beginnt.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41001,COAL,Koalition:GrÃ¼ne/CDU,Coalition:GRÃœNE/CDU,2016,Baden-WÃ¼rttemberg gestalten: VerlÃ¤sslich. Nachhaltig. Innovativ.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41223,LINKE,Die Linke,The left,2011,DIE LINKE. In den Landtag
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41223,LINKE,Die Linke,The left,2016,DIE LINKE. In den Landtag. Original Sozial - Vor und nach der Wahl
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1976,Mut zu morgen 
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1980,Leitlinien liberaler Landespolitik in Baden-WÃ¼rttemberg
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1984,Mehr Freiheit weniger Staat!
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1988,...denn Baden-WÃ¼rttemberg braucht die F.D.P.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1992,Liberale Politik fÃ¼r Baden-WÃ¼rttemberg Das Wahlprogramm zur Landtagswahl 1992. Beschlossen auf dem Landesparteitag am 19. Oktober 1991 in Mannheim
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,1996,Wahlprogramm der F.D.P. Baden WÃ¼rttemberg zur Landtageswahl am 24. MÃ¤rz 1996. Zukunft gewinnen â€“ BeschÃ¤ftigung schaffen.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2001,Das Regierungsprogramm der Freien Demokratischen Partei (2001 â€“ 2006)
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2006,Regierungsprogramm 2006 â€“ 2011
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2011,Vorn bleiben.Erfolgsmodell Baden-WÃ¼rttemberg 
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41420,FDP,Freie Demokratische Partei,Free Democratic Party,2016,Mehr Chancen durch mehr Freiheit.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41111,GRÃœNE,BÃ¼ndnis90/Die GrÃ¼nen,Alliance '90/Die GrÃ¼nen,1980,Die GrÃ¼nen Baden-WÃ¼rttemberg. Das Programm
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41111,GRÃœNE,BÃ¼ndnis90/Die GrÃ¼nen,Alliance '90/Die GrÃ¼nen,1984,Programm zur Landtagswahl 1984
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41113,GRÃœNE,BÃ¼ndnis90/Die GrÃ¼nen,Alliance '90/Die GrÃ¼nen,2016,GrÃ¼n aus Verantwortung.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41701,REP,Die Republikaner,The Republicans,1992,Die Republikaner fÃ¼r Baden-WÃ¼rttemberg
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41701,REP,Die Republikaner,The Republicans,1996,14 fÃ¼r unser Land
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41701,REP,Die Republikaner,The Republicans,2001,Landtagswahlprogramm der Partei DIE REPUBLIKANER
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1976,Wir haben fÃ¼r Baden-WÃ¼rttemberg das bessere Programm
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1980,FÃ¼r ein biÃŸchen mehr Menschlichkeit.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1984,Unsere Zukunft ist eine Zukunft fÃ¼r alle.
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1988,Der neue Fortschritt
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1992,Verantwortung: Die StÃ¤rke Baden-WÃ¼rttembergs
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,1996,Damit unser Land gewinnt. Regierungsprogramm der SPD Baden-WÃ¼rttemberg zur Landtagswahl am 24. MÃ¤rz 1996
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2001,Regierungsprogramm der Baden WÃ¼rttemberg SPD
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2006,Regierungsprogramm der SPD Baden-WÃ¼rttemberg: â€žMehr Gerechtigkeitâ€œ
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2011,Regierungsprogramm der SPD Baden-WÃ¼rttemberg 2011â€“2016
+DE,Deutschland,3,Baden-WÃ¼rttemberg,41320,SPD,Sozialdemokratische Partei Deutschlands,Social Democratic Party of Germany,2016,Baden-WÃ¼rttemberg leben.
