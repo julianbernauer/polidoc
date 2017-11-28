@@ -1,2 +1,9 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-CH,Switzerland,21,Ticino,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,2006,PIANO DELLE POLITICHE
+
+CH,Switzerland,21,Ticino,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,2006,Piano delle politiche
+
+CH,Switzerland,21,Ticino,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2007,Programmma die Verdi 2007-2011
+CH,Switzerland,21,Ticino,43420,FDP/PRP,Freisinnig-Demokratische Partei,Free Democratic Party,2007,Programma per la Legislatura 2007-2011
+CH,Switzerland,21,Ticino,43520,CVP/PDC,Christlichdemokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2007,Manifesto elettorale 2007-2011
+CH,Switzerland,21,Ticino,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2007,Piattaforma Elettorale Cantonale 2007-2011
+

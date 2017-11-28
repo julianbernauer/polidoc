@@ -1,9 +1,17 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-CH,Switzerland,12,Luzern,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Kantonale Wahlen 2011
-CH,Switzerland,12,Luzern,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2015,Liste 16 - Generation BDP
-CH,Switzerland,12,Luzern,43420,FDP/PRD,Freisinnig-Demokratische Partei,Radical Democratic Party,2007,Aktionsprogramm 2007-2011
-CH,Switzerland,12,Luzern,43120,GLP,Grünliberale Partei der Schweiz,Green Liberal Party of Switzerland,2015,Leitlinien der Grünliberalen Partei Kanton Luzern
-CH,Switzerland,12,Luzern,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2003,"Grüne Ideen, Fragen und Forderungen zur Politik im Kanton Luzern"
-CH,Switzerland,12,Luzern,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2011,Positionspapiere der Jungen Grünen Zürich
 CH,Switzerland,12,Luzern,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,2003,Programm
-CH,Switzerland,12,Luzern,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,2011,Themen
+CH,Switzerland,12,Luzern,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2003,"Grüne Ideen, Fragen und Forderungen zur  Politik im Kanton Luzern"
+CH,Switzerland,12,Luzern,43420,FDP/PRD,Freisinnig-Demokratische Partei,Radical Democratic Party,2007,Aktionsprogramm 2007-2011
+CH,Switzerland,12,Luzern,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2007,"grünwärts! Themen, Thesen, Träume"
+CH,Switzerland,12,Luzern,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Kantonale Wahlen 2011
+CH,Switzerland,12,Luzern,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2011,Positionspapiere
+CH,Switzerland,12,Luzern,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,2011,gemeinsam vorwärts!
+CH,Switzerland,12,Luzern,43420,FDP/PRD,Freisinnig-Demokratische Partei,Radical Democratic Party,2011,Liste 2 Kantonratswahlen
+CH,Switzerland,12,Luzern,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2011,Positionspapiere
+CH,Switzerland,12,Luzern,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2011,Wegweisend
+CH,Switzerland,12,Luzern,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2015,Liste 16 - Generation BDP
+CH,Switzerland,12,Luzern,43120,GLP,Grünliberale Partei der Schweiz,Green Liberal Party of Switzerland,2015,Leitlinien der Grünliberalen Partei Kanton Luzern
+CH,Switzerland,12,Luzern,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2015,Positionspapiere Grüne Kanton Luzern
+CH,Switzerland,12,Luzern,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party,2015,Wahlplattform 2015: Luzern für alle statt für wenige
+CH,Switzerland,12,Luzern,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2015,Positionspapiere der CVP Kanton Luzern
+CH,Switzerland,12,Luzern,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2015,Parteiprogramm 2015-2019

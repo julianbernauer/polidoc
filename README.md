@@ -1,8 +1,6 @@
 # polidoc
 Development platform for polidoc.net
 
-# PLEASE NOTE: Put manifesto titles in normal quotation marks: "..."
-
 # Intro and source data 
 - Contents of polidoc.net are now tracked using country- and region-specific files, which replace the "Bestandsliste" 
 - Manifesto- and party-level data stored in .csv files (can be edited in Excel and used by R) to track manifesto and party coverage
@@ -12,6 +10,7 @@ Development platform for polidoc.net
 - Files are assigned, edited, committed, controlled, and integrated via GitHub
 - Use "Issues" to assign files and tasks  
 - Use "Pull requests" for open questions/review  
+- Put manifesto titles in normal quotation marks: "..."
 
 # Codebook
 - "polidoc_manifestos.r" creates tables and figures from the source data to be used in the codebook 

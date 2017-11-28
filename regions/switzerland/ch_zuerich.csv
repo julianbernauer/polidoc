@@ -1,5 +1,22 @@
 country_abbr,country_name,region_code,region_name,cmpcode,acronym,party_orig,party_engl,year,mani_title
-CH,Switzerland,26,Z�rich,43532,AL,Alternative Liste,Alternative List,2011,Verstand statt Vaterland
-CH,Switzerland,26,Z�rich,43811,BDP,B�rgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Keine Experimente! BDP strebt mit Acht-Punkte-Programm zehn Sitze im Kantonsrat an
-CH,Switzerland,26,Z�rich,43811,BDP,B�rgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2015,Parteiprogramm der BDP des Kantons Z�rich
-CH,Switzerland,26,Z�rich,43120,GLP,Gr�nliberale Partei der Schweiz,Green Liberal Party of Switzerland,2011,Kantonsratswahlen am 3. April 2011 - L�sungen statt Ideologien
+CH, Switzerland,26,Zürich,43530,EVP/PEP,Evangelische Volkspartei der Schweiz,Evangelical People's Party of Switzerland,1991,Aktionsprogramm 1991-1999
+CH,Switzerland,26,Zürich,43530,EVP/PEP,Evangelische Volkspartei der Schweiz,Evangelical People's Party of Switzerland,2001,Aktionsprogramm 2001 der EVP des Kantons Zürich
+CH,Switzerland,26,Zürich,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2007,"Für einen sozialen, offenen und ökologischen Kanton Zürich"
+CH,Switzerland,26,Zürich,43420,FDP/PRP,Freisinnig-Demokratische Partei,Free Democratic Party,2007,Leistung hat Zukunft Freisinnige Kernthemen und Forderungen fürs Wahljahr 2007
+CH,Switzerland,26,Zürich,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2007, Mein Zuhause- unser Kanton Zürich
+CH, Switzerland,26,Zürich,43530,EVP/PEP,Evangelische Volkspartei der Schweiz,Evangelical People's Party of Switzerland,2010,"Werte, die Krisen überstehen"
+CH,Switzerland,26,Zürich,43532,AL,Alternative Liste,Alternative List,2011,Verstand statt Vaterland
+CH,Switzerland,26,Zürich,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2011,Keine Experimente! BDP strebt mit Acht-Punkte-Programm zehn Sitze im Kantonsrat an
+CH,Switzerland,26,Zürich,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2011,Positionen Grüne Kanton Zürich
+CH,Switzerland,26,Zürich,43120,GLP,Grünliberale Partei der Schweiz,Green Liberal Party of Switzerland,2011,Kantonsratswahlen am 3.April 2011- Lösungen statt Ideologien
+CH,Switzerland,26,Zürich,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2011, Wofür wir einstehen
+H,Switzerland,26,Zürich,43711,EDU, Eidgenössisch-Demokratische Union,Federal Democratic Union of Switzerland,2011,"Gesundheit,Leben,Sterben - Das Leben ist uns heilig"
+CH,Switzerland,26,Zürich,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2011, Themen und Positionen: SP Zürich
+CH,Switzerland,26,Zürich,43420,FDP/PRP,Freisinnig-Demokratische Partei,Free Democratic Party,2011,"Mehr Freiheit, Weniger Bürokratie"
+CH,Switzerland,26,Zürich,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2011,Schweizer wählen SVP
+CH,Switzerland,26,Zürich,43811,BDP,Bürgerlich-Demokratische Partei Schweiz,Conservative Democratic Party of Switzerland,2015,Parteiprogramm der BDP des Kantons Zürich
+CH,Switzerland,26,Zürich,43110,GPS,Grüne Partei der Schweiz,Green Party of Switzerland,2015,Wahlen 2015 grüne Ziele und Themen
+CH,Switzerland,26,Zürich,43320,SPS/PSS,Sozialdemokratische Partei der Schweiz,Social Democratic Party of Switzerland,2015,Positionspapiere der SP Kanton Zürich
+CH,Switzerland,26,Zürich,43420,FDP/PRP,Freisinnig-Demokratische Partei,Free Democratic Party,2015,Inhaltliche Schwerpunkte der Wahlen 2015
+CH,Switzerland,26,Zürich,43520,CVP/PDC,Christlich Demokratische Volkspartei der Schweiz,Christian Democratic People's Party of Switzerland,2015, Liste 6 CVP
+CH,Switzerland,26,Zürich,43810,SVP/UDC,Schweizerische Volkspartei,Swiss People's Party,2015,Stabilität und Sicherheit Parteiprogramm der Züricher SVP 2015-2019
