@@ -46,19 +46,7 @@ NL,Netherlands,22501,GPV,Gereformeerd Politiek Verbond,Reformed Political League
 NL,Netherlands,22430,LN,Leefbaar Nederland,Livable Netherlands,2002,Leefbaar Nederland komt er nu aan!
 NL,Netherlands,22430,LN,Leefbaar Nederland,Livable Netherlands,2003,‘Deze keer doen ze echt wat ze beloven'
 NL,Netherlands,22720,LPF,Lijst Pim Fortuyn,List Pim Fortuyn,2002,‘Proeve van een programma Lijst Pim Fortuyn (11 maart 2002)’
-NL,Netherlands,22720,LPF,Lijst Pim Fortuyn,List Pim Fortuyn,2003,‘Politiek is Passie’
-NL,Netherlands,22310,PPR,Politieke Partij Radicalen,Radical Political Party,1981,Verkiezingsprogramma
-NL,Netherlands,22310,PPR,Politieke Partij Radicalen,Radical Political Party,1982,Manifest ‘82 
-NL,Netherlands,22310,PPR,Politieke Partij Radicalen,Radical Political Party,1986,‘Verzet en Vernieuwing’
-NL,Netherlands,22202,PSP,Pacifistisch Socialistische Partij,Pacifist Socialist Party,1981,Verkiezingsprogramma 1981-1985
-NL,Netherlands,22202,PSP,Pacifistisch Socialistische Partij,Pacifist Socialist Party,1986,Verkiezingsprogramma 1986-1990
-NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1981,Verkiezingsprogramma 1981
-NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1982,Programma PvdA Tweede-Kamerverkiezingen 1982
-NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1986,‘De toekomst is van iedereen. Voor werk en eerlijk delen’
-NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1989,Programma PvdA Tweede-Kamerverkiezingen 1989
-NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1994,‘Wat mensen bindt’
-NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1998,‘Een wereld te winnen’
-NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,2002,‘Samen Voor De Toekomst. Idealen en ambities 2010’ 
+NL,Netherlands,22720,LPF,Lijst Pim Fortuyn,List Pim Fortuyn,202,‘Samen Voor De Toekomst. Idealen en ambities 2010’ 
 NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,2003,PvdA Verkiezingsmanifest 2003 
 NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,2006,Het Nederland van morgen.
 NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,2010,Iederen telt mee
@@ -78,7 +66,19 @@ NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Par
 NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,1986,Aan al de kiezers ter kennismaking
 NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,1989,Gbij leven en welzijn
 NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,1994,Verkiezingsprogramma 
-NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,1998,Ten geleide
+NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,03,‘Politiek is Passie’
+NL,Netherlands,22310,PPR,Politieke Partij Radicalen,Radical Political Party,1981,Verkiezingsprogramma
+NL,Netherlands,22310,PPR,Politieke Partij Radicalen,Radical Political Party,1982,Manifest ‘82 
+NL,Netherlands,22310,PPR,Politieke Partij Radicalen,Radical Political Party,1986,‘Verzet en Vernieuwing’
+NL,Netherlands,22202,PSP,Pacifistisch Socialistische Partij,Pacifist Socialist Party,1981,Verkiezingsprogramma 1981-1985
+NL,Netherlands,22202,PSP,Pacifistisch Socialistische Partij,Pacifist Socialist Party,1986,Verkiezingsprogramma 1986-1990
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1981,Verkiezingsprogramma 1981
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1982,Programma PvdA Tweede-Kamerverkiezingen 1982
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1986,‘De toekomst is van iedereen. Voor werk en eerlijk delen’
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1989,Programma PvdA Tweede-Kamerverkiezingen 1989
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1994,‘Wat mensen bindt’
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,1998,‘Een wereld te winnen’
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,2001998,Ten geleide
 NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,2002,Tot uw dienst
 NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,2003,Tot uw dienst
 NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,2006,Naar eer en geweten. Verkiezingsprogramma 2006-2011
@@ -101,3 +101,14 @@ NL,Netherlands,22420,VVD,Volkspartij voor Vrijheid en Democratie,People’s Part
 NL,Netherlands,22420,VVD,Volkspartij voor Vrijheid en Democratie,People’s Party for Freedom and Democracy,2006,Voor een samenleving met ambitie
 NL,Netherlands,22420,VVD,Volkspartij voor Vrijheid en Democratie,People’s Party for Freedom and Democracy,2010,Orde op zaken
 NL,Netherlands,22420,VVD,Volkspartij voor Vrijheid en Democratie,People’s Party for Freedom and Democracy,2012,Niet doorschuiven maar aanpakken
+NL,Netherlands,22110,GL,Groen Links,Green Left,2017,Tijd voor Verandering
+NL,Netherlands,22220,SP,Socialistische Partij,Socialist Party,2017,#PakDeMacht
+NL,Netherlands,22320,PvdA,Partij van de Arbeid,Labour Party,2017,een verbonden samenleving
+NL,Netherlands,22330,D66,Democraten‘66,Democrats‘66,2017,D66 Verkiezingsprogramma 2017-2021
+NL,Netherlands,22420,VVD,Volkspartij voor Vrijheid en Democratie,People’s Party for Freedom and Democracy,2017,Zeker Nederland
+NL,Netherlands,22502,SGP,Staatkundig Gereformeerde Partij,Reformed Political Party,2017,Vóór het leven
+NL,Netherlands,22521,CDA,Christen-Democratisch Appel,Christian Democratic Appeal,2017,Keuzes voor een beter Nederland
+NL,Netherlands,22526,CU,ChristenUnie,Christian Union,2017,Hoopvol Realistisch
+NL,Netherlands,22601,PVV,Partij voor de Vrijheid,Party for Freedom,2017,Nederland weer van ons!
+NL,Netherlands,22906,50+,50PLUS,50PLUS,2017,Omdat ouderen het niet meer pikken!
+NL,Netherlands,22952,PvdD,Partij voor de Dieren,Party for the Animals,2017,Plan B
