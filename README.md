@@ -1,16 +1,18 @@
 # polidoc
 Development platform for polidoc.net
 
+*Major Changes June 2018: no more separately maintained .csv files for documentation, we export the information from polidoc.net*
+
 # Intro and source data 
-- Contents of polidoc.net are now tracked using country- and region-specific files, which replace the "Bestandsliste" 
-- Manifesto- and party-level data stored in .csv files (can be edited in Excel and used by R) to track manifesto and party coverage
-- These contain country names and acronyms, cmp codes, election years covered, manifesto titles, original and english party names as well as party acronyms 
+- Managing and tracking contents of polidoc.net  
+- The exported information contains country names and acronyms, cmp codes, election years covered, manifesto titles, original and english party names as well as party acronyms 
+- R code is used to track manifesto and party coverage and produce a codebook 
 
 # Workflow
-- Files are assigned, edited, committed, controlled, and integrated via GitHub
-- Use "Issues" to assign files and tasks  
-- Use "Pull requests" for open questions/review  
-- Put manifesto titles in normal quotation marks: "..."
+1) Jobs are assigned via "Issues"
+2) Prepare manifestos according to guidelines (see Codebook)
+3) Generate entry and upload on polidoc.net via Server at the MZES 
+4) Use "Pull requests" for open questions/review  
 
 # Codebook
 - "polidoc_manifestos.r" creates tables and figures from the source data to be used in the codebook 
@@ -20,7 +22,3 @@ Development platform for polidoc.net
 - In the folder you'll find lists of all parties covered across countries and regions 
 - This is the master file for the assignemt of cmp-style codes 
 - It is created from the source files using "polidoc_manifestos.r"
-
-# Wishlist
-- Scrape polidoc.net to update files or create polidoc.net from files
-- ...
