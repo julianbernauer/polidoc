@@ -19,7 +19,7 @@ Development platform for polidoc.net
 - "polidoc_codebook.tex" creates the codebook from these files and only needs to be re-run for an update 
 
 # Party list 
-- In the folder you'll find lists of all parties covered across countries and regions 
+- In the codebook you'll find lists of all parties covered across countries and regions 
 - This is the master file for the assignemt of cmp-style codes 
 - It is created from the source files using "polidoc_manifestos.r"
 
