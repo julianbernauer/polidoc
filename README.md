@@ -22,3 +22,8 @@ Development platform for polidoc.net
 - In the folder you'll find lists of all parties covered across countries and regions 
 - This is the master file for the assignemt of cmp-style codes 
 - It is created from the source files using "polidoc_manifestos.r"
+
+# Wishlist 
+- Graphs on coverage on website 
+- Link publications using polidoc.net on website 
+ 
