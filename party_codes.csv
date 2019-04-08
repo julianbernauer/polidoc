@@ -1,3 +1,16 @@
-country, party, polidoc_code 
-Austria, Team Stronach, 42954  
-Italy, Fratelli d'Italia, 32740 
+country, state, party, polidoc_code, comment  
+Austria, Team Stronach, 42954.000,   
+Belgium, Libertair Direct Democratisch
+Belgium,  Front National
+Finnland, Sininen tulevaisuus
+Iceland, Flokkur fólksins, ,
+Iceland, Miðflokkurinn, , 
+Iceland, Hreyfingin, , 
+Italy, Fratelli d'Italia, 32740.000, 
+Italy, Lombardy, Cinque Stelle, 32997.001, 
+Italy, Lombardy, Etico a sinistra, 32203.001, communist
+Italy, Lombardy, Fare per fermare il declino, 32406.001, liberal 
+Italy, Lombardy, Lega Nord, 32720.001, 
+Italy, Lombardy, PD, 32340.001, 
+Italy, Lombardy, Sinistra Ecologia Liberta, 32360.001, eco-social democratic 
+Netherlands, Pim Fortuyn List , , 
