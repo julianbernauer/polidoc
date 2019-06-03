@@ -1,11 +1,11 @@
 country, state, party, polidoc_code, comment  
 Austria, ,  Team Stronach, 42954.000,   
-Belgium, , Libertair Direct Democratisch, , 
-Belgium,  , Front National , , 
+Belgium, , Libertair Direct Democratisch, 21403, entspricht Lijst Dedecker
+Belgium,  , Front National ,21701 , vorhanden
 Finnland, , Sininen tulevaisuus , 14830, splinter True Fins 
-Iceland, , Flokkur fólksins, ,
-Iceland, , Miðflokkurinn, , 
-Iceland, , Hreyfingin, , 
+Iceland, , Flokkur fólksins, 15994 , populist
+Iceland, , Miðflokkurinn, 15995, 
+Iceland, , Hreyfingin, 15120 , links-grün
 Italy, , Fratelli d'Italia, 32740.000, 
 Italy, Lombardy, Cinque Stelle, 32997.001, 
 Italy, Lombardy, Etico a sinistra, 32203.001, communist
