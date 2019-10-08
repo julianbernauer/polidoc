@@ -1,8 +1,21 @@
 country, state, party, polidoc_code, comment  
 Austria, ,  Team Stronach, 42954.000,   
+Austria, , Jetzt - Liste Pilz, 42960, 
 Belgium, , Libertair Direct Democratisch, 21403, entspricht Lijst Dedecker
 Belgium,  , Front National ,21701 , vorhanden
+Denmark, , Tjóðveldi , 13901, Republican Party / für Unabhängigkeit der Färöer Inseln / links
 Finnland, , Sininen tulevaisuus , 14830, splinter True Fins 
+Finland, , Kristillisdemokraatit, 14530, Christian Democrats
+Finland, , Vihreä Liitto, 14110, 
+France, , , 31110, Europäische Grüne / zu Les Verts 
+France, , Parti Radical Valoisien, 31440, PRV
+France, , Parti Communiste, 31220, 
+France, , Parti Radical de Gauche, 31302, 
+Greece, , Potami, 34410, gegründet 2014 (Orginalname: Ποτάμι)
+Greece, , Chrysi Avgi Griechenland, 34720, Abkürzung XA (Orginalname: Χρυσή Αυγή) sehr rechts
+Greece, , ANEL, 34920, Ανεξάρτητοι Έλληνες / Anexartitoi Ellines / Independent Greeks - National Patriotic Alliance (seit 2012)
+Greece, , DIMAR, 34320, Dimokratiki Aristera / Δημοκρατική Αριστερά / Democratic Left (seit 2010)
+Greece, , EK, 34610, Union of Centrists / Ένωση Κεντρώων / Enosi Kentroon
 Iceland, , Flokkur fólksins, 15994 , populist
 Iceland, , Miðflokkurinn, 15995, 
 Iceland, , Hreyfingin, 15120 , links-grün
@@ -13,25 +26,13 @@ Italy, Lombardy, Fare per fermare il declino, 32406.001, liberal
 Italy, Lombardy, Lega Nord, 32720.001, 
 Italy, Lombardy, Partito Democratico, 32340.001, 
 Italy, Lombardy, Sinistra Ecologia Liberta, 32360.001, eco-social democratic 
+Italy, , Rivoluzione Civile Ingroia, 32350, RC / Ingroia Name des Parteivorstands
 Netherlands, , Pim Fortuyn List , 22720 , exists already
 Norway, , Rødt,  12202, far-left
-Switzerland, , Ensemble à Gauche, 43210.???, linksradikal
-Switzerland, Zug ,Alternative – die Grünen Zug, 43111.025, eco-left
-Switzerland, Neuenburg, solidaritéS , 43220.013, socialist left
-Denmark, , Tjóðveldi , 13901, Republican Party / für Unabhängigkeit der Färöer Inseln / links
-Finland, , Kristillisdemokraatit, 14530, Christian Democrats
-Finland, , Vihreä Liitto, 14110, 
-France, , , 31110, Europäische Grüne / zu Les Verts 
-France, , Parti Radical Valoisien, 31440, PRV
-France, , Parti Communiste, 31220, 
-France, , Parti Radical de Gauche, 31302, 
-Italy, , Rivoluzione Civile Ingroia, 32350, RC / Ingroia Name des Parteivorstands
-Greece, , Potami, 34410, gegründet 2014 (Orginalname: Ποτάμι)
-Greece, , Chrysi Avgi Griechenland, 34720, Abkürzung XA (Orginalname: Χρυσή Αυγή) sehr rechts
-Greece, , ANEL, 34920, Ανεξάρτητοι Έλληνες / Anexartitoi Ellines / Independent Greeks - National Patriotic Alliance (seit 2012)
-Greece, , DIMAR, 34320, Dimokratiki Aristera / Δημοκρατική Αριστερά / Democratic Left (seit 2010)
-Greece, , EK, 34610, Union of Centrists / Ένωση Κεντρώων / Enosi Kentroon
-Austria, , Jetzt - Liste Pilz, 42960, 
 Spain, , PRC, 33940, 
 Spain, , JxCat, 33970, 
 Spain, , VOX, 33930, 
+Switzerland, , Ensemble à Gauche, 43210.???, linksradikal
+Switzerland, Zug ,Alternative – die Grünen Zug, 43111.025, eco-left
+Switzerland, Neuenburg, solidaritéS , 43220.013, socialist left
+
